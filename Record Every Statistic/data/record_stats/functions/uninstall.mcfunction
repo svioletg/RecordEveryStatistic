@@ -5,6 +5,7 @@ scoreboard objectives remove b.acaciaChestBoat
 scoreboard objectives remove b.acaciaDoor 
 scoreboard objectives remove b.acaciaFence 
 scoreboard objectives remove b.acaciaFenceGate 
+scoreboard objectives remove b.acaciaHangingSign 
 scoreboard objectives remove b.acaciaLeaves 
 scoreboard objectives remove b.acaciaLog 
 scoreboard objectives remove b.acaciaPlanks 
@@ -27,10 +28,13 @@ scoreboard objectives remove b.andesite
 scoreboard objectives remove b.andesiteSlab 
 scoreboard objectives remove b.andesiteStairs 
 scoreboard objectives remove b.andesiteWall 
+scoreboard objectives remove b.anglerPotterySherd 
 scoreboard objectives remove b.anvil 
 scoreboard objectives remove b.apple 
+scoreboard objectives remove b.archerPotterySherd 
 scoreboard objectives remove b.armadilloScute 
 scoreboard objectives remove b.armorStand 
+scoreboard objectives remove b.armsUpPotterySherd 
 scoreboard objectives remove b.arrow 
 scoreboard objectives remove b.axolotlBucket 
 scoreboard objectives remove b.axolotlSpawnEgg 
@@ -39,6 +43,12 @@ scoreboard objectives remove b.azaleaLeaves
 scoreboard objectives remove b.azureBluet 
 scoreboard objectives remove b.bakedPotato 
 scoreboard objectives remove b.bamboo 
+scoreboard objectives remove b.bambooBlock 
+scoreboard objectives remove b.bambooChestRaft 
+scoreboard objectives remove b.bambooHangingSign 
+scoreboard objectives remove b.bambooMosaic 
+scoreboard objectives remove b.bambooPlanks 
+scoreboard objectives remove b.bambooRaft 
 scoreboard objectives remove b.barrel 
 scoreboard objectives remove b.barrier 
 scoreboard objectives remove b.basalt 
@@ -60,6 +70,7 @@ scoreboard objectives remove b.birchChestBoat
 scoreboard objectives remove b.birchDoor 
 scoreboard objectives remove b.birchFence 
 scoreboard objectives remove b.birchFenceGate 
+scoreboard objectives remove b.birchHangingSign 
 scoreboard objectives remove b.birchLeaves 
 scoreboard objectives remove b.birchLog 
 scoreboard objectives remove b.birchPlanks 
@@ -87,6 +98,7 @@ scoreboard objectives remove b.blackstone
 scoreboard objectives remove b.blackstoneSlab 
 scoreboard objectives remove b.blackstoneStairs 
 scoreboard objectives remove b.blackstoneWall 
+scoreboard objectives remove b.bladePotterySherd 
 scoreboard objectives remove b.blastFurnace 
 scoreboard objectives remove b.blazePowder 
 scoreboard objectives remove b.blazeRod 
@@ -117,6 +129,7 @@ scoreboard objectives remove b.brainCoral
 scoreboard objectives remove b.brainCoralBlock 
 scoreboard objectives remove b.brainCoralFan 
 scoreboard objectives remove b.bread 
+scoreboard objectives remove b.brewerPotterySherd 
 scoreboard objectives remove b.brewingStand 
 scoreboard objectives remove b.brick 
 scoreboard objectives remove b.brickSlab 
@@ -138,15 +151,19 @@ scoreboard objectives remove b.brownStainedGlass
 scoreboard objectives remove b.brownStainedGlassPane 
 scoreboard objectives remove b.brownTerracotta 
 scoreboard objectives remove b.brownWool 
+scoreboard objectives remove b.brush 
 scoreboard objectives remove b.bubbleCoral 
 scoreboard objectives remove b.bubbleCoralBlock 
 scoreboard objectives remove b.bubbleCoralFan 
 scoreboard objectives remove b.bucket 
 scoreboard objectives remove b.buddingAmethyst 
 scoreboard objectives remove b.bundle 
+scoreboard objectives remove b.burnPotterySherd 
 scoreboard objectives remove b.cactus 
 scoreboard objectives remove b.cake 
 scoreboard objectives remove b.calcite 
+scoreboard objectives remove b.calibratedSculkSensor 
+scoreboard objectives remove b.camelSpawnEgg 
 scoreboard objectives remove b.campfire 
 scoreboard objectives remove b.candle 
 scoreboard objectives remove b.carrot 
@@ -163,11 +180,19 @@ scoreboard objectives remove b.chainmailChestplate
 scoreboard objectives remove b.chainmailHelmet 
 scoreboard objectives remove b.chainmailLeggings 
 scoreboard objectives remove b.charcoal 
+scoreboard objectives remove b.cherryBoat 
+scoreboard objectives remove b.cherryChestBoat 
+scoreboard objectives remove b.cherryHangingSign 
+scoreboard objectives remove b.cherryLeaves 
+scoreboard objectives remove b.cherryLog 
+scoreboard objectives remove b.cherryPlanks 
+scoreboard objectives remove b.cherrySapling 
 scoreboard objectives remove b.chest 
 scoreboard objectives remove b.chestMinecart 
 scoreboard objectives remove b.chicken 
 scoreboard objectives remove b.chickenSpawnEgg 
 scoreboard objectives remove b.chippedAnvil 
+scoreboard objectives remove b.chiseledBookshelf 
 scoreboard objectives remove b.chiseledDeepslate 
 scoreboard objectives remove b.chiseledNetherBricks 
 scoreboard objectives remove b.chiseledPolishedBlackstone 
@@ -185,6 +210,7 @@ scoreboard objectives remove b.coal
 scoreboard objectives remove b.coalBlock 
 scoreboard objectives remove b.coalOre 
 scoreboard objectives remove b.coarseDirt 
+scoreboard objectives remove b.coastArmorTrimSmithingTemplate 
 scoreboard objectives remove b.cobbledDeepslate 
 scoreboard objectives remove b.cobbledDeepslateSlab 
 scoreboard objectives remove b.cobbledDeepslateStairs 
@@ -231,6 +257,7 @@ scoreboard objectives remove b.crimsonDoor
 scoreboard objectives remove b.crimsonFence 
 scoreboard objectives remove b.crimsonFenceGate 
 scoreboard objectives remove b.crimsonFungus 
+scoreboard objectives remove b.crimsonHangingSign 
 scoreboard objectives remove b.crimsonHyphae 
 scoreboard objectives remove b.crimsonNylium 
 scoreboard objectives remove b.crimsonPlanks 
@@ -265,12 +292,14 @@ scoreboard objectives remove b.cyanTerracotta
 scoreboard objectives remove b.cyanWool 
 scoreboard objectives remove b.damagedAnvil 
 scoreboard objectives remove b.dandelion 
+scoreboard objectives remove b.dangerPotterySherd 
 scoreboard objectives remove b.darkOakBoat 
 scoreboard objectives remove b.darkOakButton 
 scoreboard objectives remove b.darkOakChestBoat 
 scoreboard objectives remove b.darkOakDoor 
 scoreboard objectives remove b.darkOakFence 
 scoreboard objectives remove b.darkOakFenceGate 
+scoreboard objectives remove b.darkOakHangingSign 
 scoreboard objectives remove b.darkOakLeaves 
 scoreboard objectives remove b.darkOakLog 
 scoreboard objectives remove b.darkOakPlanks 
@@ -302,6 +331,7 @@ scoreboard objectives remove b.deadTubeCoral
 scoreboard objectives remove b.deadTubeCoralBlock 
 scoreboard objectives remove b.deadTubeCoralFan 
 scoreboard objectives remove b.debugStick 
+scoreboard objectives remove b.decoratedPot 
 scoreboard objectives remove b.deepslate 
 scoreboard objectives remove b.deepslateBrickSlab 
 scoreboard objectives remove b.deepslateBrickStairs 
@@ -351,6 +381,7 @@ scoreboard objectives remove b.driedKelpBlock
 scoreboard objectives remove b.dripstoneBlock 
 scoreboard objectives remove b.dropper 
 scoreboard objectives remove b.drownedSpawnEgg 
+scoreboard objectives remove b.duneArmorTrimSmithingTemplate 
 scoreboard objectives remove b.echoShard 
 scoreboard objectives remove b.egg 
 scoreboard objectives remove b.elderGuardianSpawnEgg 
@@ -377,10 +408,12 @@ scoreboard objectives remove b.endermanSpawnEgg
 scoreboard objectives remove b.endermiteSpawnEgg 
 scoreboard objectives remove b.evokerSpawnEgg 
 scoreboard objectives remove b.experienceBottle 
+scoreboard objectives remove b.explorerPotterySherd 
 scoreboard objectives remove b.exposedCopper 
 scoreboard objectives remove b.exposedCutCopper 
 scoreboard objectives remove b.exposedCutCopperSlab 
 scoreboard objectives remove b.exposedCutCopperStairs 
+scoreboard objectives remove b.eyeArmorTrimSmithingTemplate 
 scoreboard objectives remove b.farmland 
 scoreboard objectives remove b.feather 
 scoreboard objectives remove b.fermentedSpiderEye 
@@ -401,6 +434,7 @@ scoreboard objectives remove b.flowerPot
 scoreboard objectives remove b.floweringAzalea 
 scoreboard objectives remove b.floweringAzaleaLeaves 
 scoreboard objectives remove b.foxSpawnEgg 
+scoreboard objectives remove b.friendPotterySherd 
 scoreboard objectives remove b.frogSpawnEgg 
 scoreboard objectives remove b.frogspawn 
 scoreboard objectives remove b.furnace 
@@ -476,6 +510,8 @@ scoreboard objectives remove b.gunpowder
 scoreboard objectives remove b.hangingRoots 
 scoreboard objectives remove b.hayBlock 
 scoreboard objectives remove b.heartOfTheSea 
+scoreboard objectives remove b.heartPotterySherd 
+scoreboard objectives remove b.heartbreakPotterySherd 
 scoreboard objectives remove b.heavyWeightedPressurePlate 
 scoreboard objectives remove b.hoglinSpawnEgg 
 scoreboard objectives remove b.honeyBlock 
@@ -488,6 +524,8 @@ scoreboard objectives remove b.hornCoral
 scoreboard objectives remove b.hornCoralBlock 
 scoreboard objectives remove b.hornCoralFan 
 scoreboard objectives remove b.horseSpawnEgg 
+scoreboard objectives remove b.hostArmorTrimSmithingTemplate 
+scoreboard objectives remove b.howlPotterySherd 
 scoreboard objectives remove b.huskSpawnEgg 
 scoreboard objectives remove b.ice 
 scoreboard objectives remove b.infestedChiseledStoneBricks 
@@ -526,6 +564,7 @@ scoreboard objectives remove b.jungleChestBoat
 scoreboard objectives remove b.jungleDoor 
 scoreboard objectives remove b.jungleFence 
 scoreboard objectives remove b.jungleFenceGate 
+scoreboard objectives remove b.jungleHangingSign 
 scoreboard objectives remove b.jungleLeaves 
 scoreboard objectives remove b.jungleLog 
 scoreboard objectives remove b.junglePlanks 
@@ -626,6 +665,7 @@ scoreboard objectives remove b.mangroveChestBoat
 scoreboard objectives remove b.mangroveDoor 
 scoreboard objectives remove b.mangroveFence 
 scoreboard objectives remove b.mangroveFenceGate 
+scoreboard objectives remove b.mangroveHangingSign 
 scoreboard objectives remove b.mangroveLeaves 
 scoreboard objectives remove b.mangroveLog 
 scoreboard objectives remove b.mangrovePlanks 
@@ -644,6 +684,7 @@ scoreboard objectives remove b.melonSeeds
 scoreboard objectives remove b.melonSlice 
 scoreboard objectives remove b.milkBucket 
 scoreboard objectives remove b.minecart 
+scoreboard objectives remove b.minerPotterySherd 
 scoreboard objectives remove b.mojangBannerPattern 
 scoreboard objectives remove b.mooshroomSpawnEgg 
 scoreboard objectives remove b.mossBlock 
@@ -656,6 +697,7 @@ scoreboard objectives remove b.mossyStoneBrickSlab
 scoreboard objectives remove b.mossyStoneBrickStairs 
 scoreboard objectives remove b.mossyStoneBrickWall 
 scoreboard objectives remove b.mossyStoneBricks 
+scoreboard objectives remove b.mournerPotterySherd 
 scoreboard objectives remove b.mud 
 scoreboard objectives remove b.mudBrickSlab 
 scoreboard objectives remove b.mudBrickStairs 
@@ -676,6 +718,7 @@ scoreboard objectives remove b.musicDiscMall
 scoreboard objectives remove b.musicDiscMellohi 
 scoreboard objectives remove b.musicDiscOtherside 
 scoreboard objectives remove b.musicDiscPigstep 
+scoreboard objectives remove b.musicDiscRelic 
 scoreboard objectives remove b.musicDiscStal 
 scoreboard objectives remove b.musicDiscStrad 
 scoreboard objectives remove b.musicDiscWait 
@@ -708,6 +751,7 @@ scoreboard objectives remove b.netheritePickaxe
 scoreboard objectives remove b.netheriteScrap 
 scoreboard objectives remove b.netheriteShovel 
 scoreboard objectives remove b.netheriteSword 
+scoreboard objectives remove b.netheriteUpgradeSmithingTemplate 
 scoreboard objectives remove b.netherrack 
 scoreboard objectives remove b.noteBlock 
 scoreboard objectives remove b.oakBoat 
@@ -716,6 +760,7 @@ scoreboard objectives remove b.oakChestBoat
 scoreboard objectives remove b.oakDoor 
 scoreboard objectives remove b.oakFence 
 scoreboard objectives remove b.oakFenceGate 
+scoreboard objectives remove b.oakHangingSign 
 scoreboard objectives remove b.oakLeaves 
 scoreboard objectives remove b.oakLog 
 scoreboard objectives remove b.oakPlanks 
@@ -763,6 +808,7 @@ scoreboard objectives remove b.phantomSpawnEgg
 scoreboard objectives remove b.pigSpawnEgg 
 scoreboard objectives remove b.piglinBannerPattern 
 scoreboard objectives remove b.piglinBruteSpawnEgg 
+scoreboard objectives remove b.piglinHead 
 scoreboard objectives remove b.piglinSpawnEgg 
 scoreboard objectives remove b.pillagerSpawnEgg 
 scoreboard objectives remove b.pinkBanner 
@@ -773,6 +819,7 @@ scoreboard objectives remove b.pinkConcrete
 scoreboard objectives remove b.pinkConcretePowder 
 scoreboard objectives remove b.pinkDye 
 scoreboard objectives remove b.pinkGlazedTerracotta 
+scoreboard objectives remove b.pinkPetals 
 scoreboard objectives remove b.pinkShulkerBox 
 scoreboard objectives remove b.pinkStainedGlass 
 scoreboard objectives remove b.pinkStainedGlassPane 
@@ -780,7 +827,10 @@ scoreboard objectives remove b.pinkTerracotta
 scoreboard objectives remove b.pinkTulip 
 scoreboard objectives remove b.pinkWool 
 scoreboard objectives remove b.piston 
+scoreboard objectives remove b.pitcherPlant 
+scoreboard objectives remove b.pitcherPod 
 scoreboard objectives remove b.playerHead 
+scoreboard objectives remove b.plentyPotterySherd 
 scoreboard objectives remove b.podzol 
 scoreboard objectives remove b.pointedDripstone 
 scoreboard objectives remove b.poisonousPotato 
@@ -825,6 +875,7 @@ scoreboard objectives remove b.prismarineShard
 scoreboard objectives remove b.prismarineSlab 
 scoreboard objectives remove b.prismarineStairs 
 scoreboard objectives remove b.prismarineWall 
+scoreboard objectives remove b.prizePotterySherd 
 scoreboard objectives remove b.pufferfish 
 scoreboard objectives remove b.pufferfishBucket 
 scoreboard objectives remove b.pufferfishSpawnEgg 
@@ -860,6 +911,7 @@ scoreboard objectives remove b.rabbitHide
 scoreboard objectives remove b.rabbitSpawnEgg 
 scoreboard objectives remove b.rabbitStew 
 scoreboard objectives remove b.rail 
+scoreboard objectives remove b.raiserArmorTrimSmithingTemplate 
 scoreboard objectives remove b.ravagerSpawnEgg 
 scoreboard objectives remove b.rawCopper 
 scoreboard objectives remove b.rawCopperBlock 
@@ -902,6 +954,7 @@ scoreboard objectives remove b.reinforcedDeepslate
 scoreboard objectives remove b.repeater 
 scoreboard objectives remove b.repeatingCommandBlock 
 scoreboard objectives remove b.respawnAnchor 
+scoreboard objectives remove b.ribArmorTrimSmithingTemplate 
 scoreboard objectives remove b.rootedDirt 
 scoreboard objectives remove b.roseBush 
 scoreboard objectives remove b.rottenFlesh 
@@ -923,19 +976,25 @@ scoreboard objectives remove b.sculkVein
 scoreboard objectives remove b.seaLantern 
 scoreboard objectives remove b.seaPickle 
 scoreboard objectives remove b.seagrass 
+scoreboard objectives remove b.sentryArmorTrimSmithingTemplate 
+scoreboard objectives remove b.shaperArmorTrimSmithingTemplate 
+scoreboard objectives remove b.sheafPotterySherd 
 scoreboard objectives remove b.shears 
 scoreboard objectives remove b.sheepSpawnEgg 
+scoreboard objectives remove b.shelterPotterySherd 
 scoreboard objectives remove b.shield 
 scoreboard objectives remove b.shortGrass 
 scoreboard objectives remove b.shroomlight 
 scoreboard objectives remove b.shulkerBox 
 scoreboard objectives remove b.shulkerShell 
 scoreboard objectives remove b.shulkerSpawnEgg 
+scoreboard objectives remove b.silenceArmorTrimSmithingTemplate 
 scoreboard objectives remove b.silverfishSpawnEgg 
 scoreboard objectives remove b.skeletonHorseSpawnEgg 
 scoreboard objectives remove b.skeletonSkull 
 scoreboard objectives remove b.skeletonSpawnEgg 
 scoreboard objectives remove b.skullBannerPattern 
+scoreboard objectives remove b.skullPotterySherd 
 scoreboard objectives remove b.slimeBall 
 scoreboard objectives remove b.slimeBlock 
 scoreboard objectives remove b.slimeSpawnEgg 
@@ -955,6 +1014,10 @@ scoreboard objectives remove b.smoothSandstoneSlab
 scoreboard objectives remove b.smoothSandstoneStairs 
 scoreboard objectives remove b.smoothStone 
 scoreboard objectives remove b.smoothStoneSlab 
+scoreboard objectives remove b.snifferEgg 
+scoreboard objectives remove b.snifferSpawnEgg 
+scoreboard objectives remove b.snortPotterySherd 
+scoreboard objectives remove b.snoutArmorTrimSmithingTemplate 
 scoreboard objectives remove b.snow 
 scoreboard objectives remove b.snowBlock 
 scoreboard objectives remove b.snowGolemSpawnEgg 
@@ -968,6 +1031,7 @@ scoreboard objectives remove b.spawner
 scoreboard objectives remove b.spectralArrow 
 scoreboard objectives remove b.spiderEye 
 scoreboard objectives remove b.spiderSpawnEgg 
+scoreboard objectives remove b.spireArmorTrimSmithingTemplate 
 scoreboard objectives remove b.splashPotion 
 scoreboard objectives remove b.sponge 
 scoreboard objectives remove b.sporeBlossom 
@@ -977,6 +1041,7 @@ scoreboard objectives remove b.spruceChestBoat
 scoreboard objectives remove b.spruceDoor 
 scoreboard objectives remove b.spruceFence 
 scoreboard objectives remove b.spruceFenceGate 
+scoreboard objectives remove b.spruceHangingSign 
 scoreboard objectives remove b.spruceLeaves 
 scoreboard objectives remove b.spruceLog 
 scoreboard objectives remove b.sprucePlanks 
@@ -1032,6 +1097,8 @@ scoreboard objectives remove b.structureVoid
 scoreboard objectives remove b.sugar 
 scoreboard objectives remove b.sugarCane 
 scoreboard objectives remove b.sunflower 
+scoreboard objectives remove b.suspiciousGravel 
+scoreboard objectives remove b.suspiciousSand 
 scoreboard objectives remove b.suspiciousStew 
 scoreboard objectives remove b.sweetBerries 
 scoreboard objectives remove b.tadpoleBucket 
@@ -1039,11 +1106,14 @@ scoreboard objectives remove b.tadpoleSpawnEgg
 scoreboard objectives remove b.tallGrass 
 scoreboard objectives remove b.target 
 scoreboard objectives remove b.terracotta 
+scoreboard objectives remove b.tideArmorTrimSmithingTemplate 
 scoreboard objectives remove b.tintedGlass 
 scoreboard objectives remove b.tippedArrow 
 scoreboard objectives remove b.tnt 
 scoreboard objectives remove b.tntMinecart 
 scoreboard objectives remove b.torch 
+scoreboard objectives remove b.torchflower 
+scoreboard objectives remove b.torchflowerSeeds 
 scoreboard objectives remove b.totemOfUndying 
 scoreboard objectives remove b.traderLlamaSpawnEgg 
 scoreboard objectives remove b.trappedChest 
@@ -1062,11 +1132,13 @@ scoreboard objectives remove b.turtleScute
 scoreboard objectives remove b.turtleSpawnEgg 
 scoreboard objectives remove b.twistingVines 
 scoreboard objectives remove b.verdantFroglight 
+scoreboard objectives remove b.vexArmorTrimSmithingTemplate 
 scoreboard objectives remove b.vexSpawnEgg 
 scoreboard objectives remove b.villagerSpawnEgg 
 scoreboard objectives remove b.vindicatorSpawnEgg 
 scoreboard objectives remove b.vine 
 scoreboard objectives remove b.wanderingTraderSpawnEgg 
+scoreboard objectives remove b.wardArmorTrimSmithingTemplate 
 scoreboard objectives remove b.wardenSpawnEgg 
 scoreboard objectives remove b.warpedButton 
 scoreboard objectives remove b.warpedDoor 
@@ -1074,6 +1146,7 @@ scoreboard objectives remove b.warpedFence
 scoreboard objectives remove b.warpedFenceGate 
 scoreboard objectives remove b.warpedFungus 
 scoreboard objectives remove b.warpedFungusOnAStick 
+scoreboard objectives remove b.warpedHangingSign 
 scoreboard objectives remove b.warpedHyphae 
 scoreboard objectives remove b.warpedNylium 
 scoreboard objectives remove b.warpedPlanks 
@@ -1102,6 +1175,7 @@ scoreboard objectives remove b.waxedWeatheredCopper
 scoreboard objectives remove b.waxedWeatheredCutCopper 
 scoreboard objectives remove b.waxedWeatheredCutCopperSlab 
 scoreboard objectives remove b.waxedWeatheredCutCopperStairs 
+scoreboard objectives remove b.wayfinderArmorTrimSmithingTemplate 
 scoreboard objectives remove b.weatheredCopper 
 scoreboard objectives remove b.weatheredCutCopper 
 scoreboard objectives remove b.weatheredCutCopperSlab 
@@ -1124,6 +1198,7 @@ scoreboard objectives remove b.whiteStainedGlassPane
 scoreboard objectives remove b.whiteTerracotta 
 scoreboard objectives remove b.whiteTulip 
 scoreboard objectives remove b.whiteWool 
+scoreboard objectives remove b.wildArmorTrimSmithingTemplate 
 scoreboard objectives remove b.witchSpawnEgg 
 scoreboard objectives remove b.witherRose 
 scoreboard objectives remove b.witherSkeletonSkull 
@@ -1164,6 +1239,7 @@ scoreboard objectives remove c.acaciaChestBoat
 scoreboard objectives remove c.acaciaDoor 
 scoreboard objectives remove c.acaciaFence 
 scoreboard objectives remove c.acaciaFenceGate 
+scoreboard objectives remove c.acaciaHangingSign 
 scoreboard objectives remove c.acaciaLeaves 
 scoreboard objectives remove c.acaciaLog 
 scoreboard objectives remove c.acaciaPlanks 
@@ -1186,10 +1262,13 @@ scoreboard objectives remove c.andesite
 scoreboard objectives remove c.andesiteSlab 
 scoreboard objectives remove c.andesiteStairs 
 scoreboard objectives remove c.andesiteWall 
+scoreboard objectives remove c.anglerPotterySherd 
 scoreboard objectives remove c.anvil 
 scoreboard objectives remove c.apple 
+scoreboard objectives remove c.archerPotterySherd 
 scoreboard objectives remove c.armadilloScute 
 scoreboard objectives remove c.armorStand 
+scoreboard objectives remove c.armsUpPotterySherd 
 scoreboard objectives remove c.arrow 
 scoreboard objectives remove c.axolotlBucket 
 scoreboard objectives remove c.axolotlSpawnEgg 
@@ -1198,6 +1277,12 @@ scoreboard objectives remove c.azaleaLeaves
 scoreboard objectives remove c.azureBluet 
 scoreboard objectives remove c.bakedPotato 
 scoreboard objectives remove c.bamboo 
+scoreboard objectives remove c.bambooBlock 
+scoreboard objectives remove c.bambooChestRaft 
+scoreboard objectives remove c.bambooHangingSign 
+scoreboard objectives remove c.bambooMosaic 
+scoreboard objectives remove c.bambooPlanks 
+scoreboard objectives remove c.bambooRaft 
 scoreboard objectives remove c.barrel 
 scoreboard objectives remove c.barrier 
 scoreboard objectives remove c.basalt 
@@ -1219,6 +1304,7 @@ scoreboard objectives remove c.birchChestBoat
 scoreboard objectives remove c.birchDoor 
 scoreboard objectives remove c.birchFence 
 scoreboard objectives remove c.birchFenceGate 
+scoreboard objectives remove c.birchHangingSign 
 scoreboard objectives remove c.birchLeaves 
 scoreboard objectives remove c.birchLog 
 scoreboard objectives remove c.birchPlanks 
@@ -1246,6 +1332,7 @@ scoreboard objectives remove c.blackstone
 scoreboard objectives remove c.blackstoneSlab 
 scoreboard objectives remove c.blackstoneStairs 
 scoreboard objectives remove c.blackstoneWall 
+scoreboard objectives remove c.bladePotterySherd 
 scoreboard objectives remove c.blastFurnace 
 scoreboard objectives remove c.blazePowder 
 scoreboard objectives remove c.blazeRod 
@@ -1276,6 +1363,7 @@ scoreboard objectives remove c.brainCoral
 scoreboard objectives remove c.brainCoralBlock 
 scoreboard objectives remove c.brainCoralFan 
 scoreboard objectives remove c.bread 
+scoreboard objectives remove c.brewerPotterySherd 
 scoreboard objectives remove c.brewingStand 
 scoreboard objectives remove c.brick 
 scoreboard objectives remove c.brickSlab 
@@ -1297,15 +1385,19 @@ scoreboard objectives remove c.brownStainedGlass
 scoreboard objectives remove c.brownStainedGlassPane 
 scoreboard objectives remove c.brownTerracotta 
 scoreboard objectives remove c.brownWool 
+scoreboard objectives remove c.brush 
 scoreboard objectives remove c.bubbleCoral 
 scoreboard objectives remove c.bubbleCoralBlock 
 scoreboard objectives remove c.bubbleCoralFan 
 scoreboard objectives remove c.bucket 
 scoreboard objectives remove c.buddingAmethyst 
 scoreboard objectives remove c.bundle 
+scoreboard objectives remove c.burnPotterySherd 
 scoreboard objectives remove c.cactus 
 scoreboard objectives remove c.cake 
 scoreboard objectives remove c.calcite 
+scoreboard objectives remove c.calibratedSculkSensor 
+scoreboard objectives remove c.camelSpawnEgg 
 scoreboard objectives remove c.campfire 
 scoreboard objectives remove c.candle 
 scoreboard objectives remove c.carrot 
@@ -1322,11 +1414,19 @@ scoreboard objectives remove c.chainmailChestplate
 scoreboard objectives remove c.chainmailHelmet 
 scoreboard objectives remove c.chainmailLeggings 
 scoreboard objectives remove c.charcoal 
+scoreboard objectives remove c.cherryBoat 
+scoreboard objectives remove c.cherryChestBoat 
+scoreboard objectives remove c.cherryHangingSign 
+scoreboard objectives remove c.cherryLeaves 
+scoreboard objectives remove c.cherryLog 
+scoreboard objectives remove c.cherryPlanks 
+scoreboard objectives remove c.cherrySapling 
 scoreboard objectives remove c.chest 
 scoreboard objectives remove c.chestMinecart 
 scoreboard objectives remove c.chicken 
 scoreboard objectives remove c.chickenSpawnEgg 
 scoreboard objectives remove c.chippedAnvil 
+scoreboard objectives remove c.chiseledBookshelf 
 scoreboard objectives remove c.chiseledDeepslate 
 scoreboard objectives remove c.chiseledNetherBricks 
 scoreboard objectives remove c.chiseledPolishedBlackstone 
@@ -1344,6 +1444,7 @@ scoreboard objectives remove c.coal
 scoreboard objectives remove c.coalBlock 
 scoreboard objectives remove c.coalOre 
 scoreboard objectives remove c.coarseDirt 
+scoreboard objectives remove c.coastArmorTrimSmithingTemplate 
 scoreboard objectives remove c.cobbledDeepslate 
 scoreboard objectives remove c.cobbledDeepslateSlab 
 scoreboard objectives remove c.cobbledDeepslateStairs 
@@ -1390,6 +1491,7 @@ scoreboard objectives remove c.crimsonDoor
 scoreboard objectives remove c.crimsonFence 
 scoreboard objectives remove c.crimsonFenceGate 
 scoreboard objectives remove c.crimsonFungus 
+scoreboard objectives remove c.crimsonHangingSign 
 scoreboard objectives remove c.crimsonHyphae 
 scoreboard objectives remove c.crimsonNylium 
 scoreboard objectives remove c.crimsonPlanks 
@@ -1424,12 +1526,14 @@ scoreboard objectives remove c.cyanTerracotta
 scoreboard objectives remove c.cyanWool 
 scoreboard objectives remove c.damagedAnvil 
 scoreboard objectives remove c.dandelion 
+scoreboard objectives remove c.dangerPotterySherd 
 scoreboard objectives remove c.darkOakBoat 
 scoreboard objectives remove c.darkOakButton 
 scoreboard objectives remove c.darkOakChestBoat 
 scoreboard objectives remove c.darkOakDoor 
 scoreboard objectives remove c.darkOakFence 
 scoreboard objectives remove c.darkOakFenceGate 
+scoreboard objectives remove c.darkOakHangingSign 
 scoreboard objectives remove c.darkOakLeaves 
 scoreboard objectives remove c.darkOakLog 
 scoreboard objectives remove c.darkOakPlanks 
@@ -1461,6 +1565,7 @@ scoreboard objectives remove c.deadTubeCoral
 scoreboard objectives remove c.deadTubeCoralBlock 
 scoreboard objectives remove c.deadTubeCoralFan 
 scoreboard objectives remove c.debugStick 
+scoreboard objectives remove c.decoratedPot 
 scoreboard objectives remove c.deepslate 
 scoreboard objectives remove c.deepslateBrickSlab 
 scoreboard objectives remove c.deepslateBrickStairs 
@@ -1510,6 +1615,7 @@ scoreboard objectives remove c.driedKelpBlock
 scoreboard objectives remove c.dripstoneBlock 
 scoreboard objectives remove c.dropper 
 scoreboard objectives remove c.drownedSpawnEgg 
+scoreboard objectives remove c.duneArmorTrimSmithingTemplate 
 scoreboard objectives remove c.echoShard 
 scoreboard objectives remove c.egg 
 scoreboard objectives remove c.elderGuardianSpawnEgg 
@@ -1536,10 +1642,12 @@ scoreboard objectives remove c.endermanSpawnEgg
 scoreboard objectives remove c.endermiteSpawnEgg 
 scoreboard objectives remove c.evokerSpawnEgg 
 scoreboard objectives remove c.experienceBottle 
+scoreboard objectives remove c.explorerPotterySherd 
 scoreboard objectives remove c.exposedCopper 
 scoreboard objectives remove c.exposedCutCopper 
 scoreboard objectives remove c.exposedCutCopperSlab 
 scoreboard objectives remove c.exposedCutCopperStairs 
+scoreboard objectives remove c.eyeArmorTrimSmithingTemplate 
 scoreboard objectives remove c.farmland 
 scoreboard objectives remove c.feather 
 scoreboard objectives remove c.fermentedSpiderEye 
@@ -1560,6 +1668,7 @@ scoreboard objectives remove c.flowerPot
 scoreboard objectives remove c.floweringAzalea 
 scoreboard objectives remove c.floweringAzaleaLeaves 
 scoreboard objectives remove c.foxSpawnEgg 
+scoreboard objectives remove c.friendPotterySherd 
 scoreboard objectives remove c.frogSpawnEgg 
 scoreboard objectives remove c.frogspawn 
 scoreboard objectives remove c.furnace 
@@ -1635,6 +1744,8 @@ scoreboard objectives remove c.gunpowder
 scoreboard objectives remove c.hangingRoots 
 scoreboard objectives remove c.hayBlock 
 scoreboard objectives remove c.heartOfTheSea 
+scoreboard objectives remove c.heartPotterySherd 
+scoreboard objectives remove c.heartbreakPotterySherd 
 scoreboard objectives remove c.heavyWeightedPressurePlate 
 scoreboard objectives remove c.hoglinSpawnEgg 
 scoreboard objectives remove c.honeyBlock 
@@ -1647,6 +1758,8 @@ scoreboard objectives remove c.hornCoral
 scoreboard objectives remove c.hornCoralBlock 
 scoreboard objectives remove c.hornCoralFan 
 scoreboard objectives remove c.horseSpawnEgg 
+scoreboard objectives remove c.hostArmorTrimSmithingTemplate 
+scoreboard objectives remove c.howlPotterySherd 
 scoreboard objectives remove c.huskSpawnEgg 
 scoreboard objectives remove c.ice 
 scoreboard objectives remove c.infestedChiseledStoneBricks 
@@ -1685,6 +1798,7 @@ scoreboard objectives remove c.jungleChestBoat
 scoreboard objectives remove c.jungleDoor 
 scoreboard objectives remove c.jungleFence 
 scoreboard objectives remove c.jungleFenceGate 
+scoreboard objectives remove c.jungleHangingSign 
 scoreboard objectives remove c.jungleLeaves 
 scoreboard objectives remove c.jungleLog 
 scoreboard objectives remove c.junglePlanks 
@@ -1785,6 +1899,7 @@ scoreboard objectives remove c.mangroveChestBoat
 scoreboard objectives remove c.mangroveDoor 
 scoreboard objectives remove c.mangroveFence 
 scoreboard objectives remove c.mangroveFenceGate 
+scoreboard objectives remove c.mangroveHangingSign 
 scoreboard objectives remove c.mangroveLeaves 
 scoreboard objectives remove c.mangroveLog 
 scoreboard objectives remove c.mangrovePlanks 
@@ -1803,6 +1918,7 @@ scoreboard objectives remove c.melonSeeds
 scoreboard objectives remove c.melonSlice 
 scoreboard objectives remove c.milkBucket 
 scoreboard objectives remove c.minecart 
+scoreboard objectives remove c.minerPotterySherd 
 scoreboard objectives remove c.mojangBannerPattern 
 scoreboard objectives remove c.mooshroomSpawnEgg 
 scoreboard objectives remove c.mossBlock 
@@ -1815,6 +1931,7 @@ scoreboard objectives remove c.mossyStoneBrickSlab
 scoreboard objectives remove c.mossyStoneBrickStairs 
 scoreboard objectives remove c.mossyStoneBrickWall 
 scoreboard objectives remove c.mossyStoneBricks 
+scoreboard objectives remove c.mournerPotterySherd 
 scoreboard objectives remove c.mud 
 scoreboard objectives remove c.mudBrickSlab 
 scoreboard objectives remove c.mudBrickStairs 
@@ -1835,6 +1952,7 @@ scoreboard objectives remove c.musicDiscMall
 scoreboard objectives remove c.musicDiscMellohi 
 scoreboard objectives remove c.musicDiscOtherside 
 scoreboard objectives remove c.musicDiscPigstep 
+scoreboard objectives remove c.musicDiscRelic 
 scoreboard objectives remove c.musicDiscStal 
 scoreboard objectives remove c.musicDiscStrad 
 scoreboard objectives remove c.musicDiscWait 
@@ -1867,6 +1985,7 @@ scoreboard objectives remove c.netheritePickaxe
 scoreboard objectives remove c.netheriteScrap 
 scoreboard objectives remove c.netheriteShovel 
 scoreboard objectives remove c.netheriteSword 
+scoreboard objectives remove c.netheriteUpgradeSmithingTemplate 
 scoreboard objectives remove c.netherrack 
 scoreboard objectives remove c.noteBlock 
 scoreboard objectives remove c.oakBoat 
@@ -1875,6 +1994,7 @@ scoreboard objectives remove c.oakChestBoat
 scoreboard objectives remove c.oakDoor 
 scoreboard objectives remove c.oakFence 
 scoreboard objectives remove c.oakFenceGate 
+scoreboard objectives remove c.oakHangingSign 
 scoreboard objectives remove c.oakLeaves 
 scoreboard objectives remove c.oakLog 
 scoreboard objectives remove c.oakPlanks 
@@ -1922,6 +2042,7 @@ scoreboard objectives remove c.phantomSpawnEgg
 scoreboard objectives remove c.pigSpawnEgg 
 scoreboard objectives remove c.piglinBannerPattern 
 scoreboard objectives remove c.piglinBruteSpawnEgg 
+scoreboard objectives remove c.piglinHead 
 scoreboard objectives remove c.piglinSpawnEgg 
 scoreboard objectives remove c.pillagerSpawnEgg 
 scoreboard objectives remove c.pinkBanner 
@@ -1932,6 +2053,7 @@ scoreboard objectives remove c.pinkConcrete
 scoreboard objectives remove c.pinkConcretePowder 
 scoreboard objectives remove c.pinkDye 
 scoreboard objectives remove c.pinkGlazedTerracotta 
+scoreboard objectives remove c.pinkPetals 
 scoreboard objectives remove c.pinkShulkerBox 
 scoreboard objectives remove c.pinkStainedGlass 
 scoreboard objectives remove c.pinkStainedGlassPane 
@@ -1939,7 +2061,10 @@ scoreboard objectives remove c.pinkTerracotta
 scoreboard objectives remove c.pinkTulip 
 scoreboard objectives remove c.pinkWool 
 scoreboard objectives remove c.piston 
+scoreboard objectives remove c.pitcherPlant 
+scoreboard objectives remove c.pitcherPod 
 scoreboard objectives remove c.playerHead 
+scoreboard objectives remove c.plentyPotterySherd 
 scoreboard objectives remove c.podzol 
 scoreboard objectives remove c.pointedDripstone 
 scoreboard objectives remove c.poisonousPotato 
@@ -1984,6 +2109,7 @@ scoreboard objectives remove c.prismarineShard
 scoreboard objectives remove c.prismarineSlab 
 scoreboard objectives remove c.prismarineStairs 
 scoreboard objectives remove c.prismarineWall 
+scoreboard objectives remove c.prizePotterySherd 
 scoreboard objectives remove c.pufferfish 
 scoreboard objectives remove c.pufferfishBucket 
 scoreboard objectives remove c.pufferfishSpawnEgg 
@@ -2019,6 +2145,7 @@ scoreboard objectives remove c.rabbitHide
 scoreboard objectives remove c.rabbitSpawnEgg 
 scoreboard objectives remove c.rabbitStew 
 scoreboard objectives remove c.rail 
+scoreboard objectives remove c.raiserArmorTrimSmithingTemplate 
 scoreboard objectives remove c.ravagerSpawnEgg 
 scoreboard objectives remove c.rawCopper 
 scoreboard objectives remove c.rawCopperBlock 
@@ -2061,6 +2188,7 @@ scoreboard objectives remove c.reinforcedDeepslate
 scoreboard objectives remove c.repeater 
 scoreboard objectives remove c.repeatingCommandBlock 
 scoreboard objectives remove c.respawnAnchor 
+scoreboard objectives remove c.ribArmorTrimSmithingTemplate 
 scoreboard objectives remove c.rootedDirt 
 scoreboard objectives remove c.roseBush 
 scoreboard objectives remove c.rottenFlesh 
@@ -2082,19 +2210,25 @@ scoreboard objectives remove c.sculkVein
 scoreboard objectives remove c.seaLantern 
 scoreboard objectives remove c.seaPickle 
 scoreboard objectives remove c.seagrass 
+scoreboard objectives remove c.sentryArmorTrimSmithingTemplate 
+scoreboard objectives remove c.shaperArmorTrimSmithingTemplate 
+scoreboard objectives remove c.sheafPotterySherd 
 scoreboard objectives remove c.shears 
 scoreboard objectives remove c.sheepSpawnEgg 
+scoreboard objectives remove c.shelterPotterySherd 
 scoreboard objectives remove c.shield 
 scoreboard objectives remove c.shortGrass 
 scoreboard objectives remove c.shroomlight 
 scoreboard objectives remove c.shulkerBox 
 scoreboard objectives remove c.shulkerShell 
 scoreboard objectives remove c.shulkerSpawnEgg 
+scoreboard objectives remove c.silenceArmorTrimSmithingTemplate 
 scoreboard objectives remove c.silverfishSpawnEgg 
 scoreboard objectives remove c.skeletonHorseSpawnEgg 
 scoreboard objectives remove c.skeletonSkull 
 scoreboard objectives remove c.skeletonSpawnEgg 
 scoreboard objectives remove c.skullBannerPattern 
+scoreboard objectives remove c.skullPotterySherd 
 scoreboard objectives remove c.slimeBall 
 scoreboard objectives remove c.slimeBlock 
 scoreboard objectives remove c.slimeSpawnEgg 
@@ -2114,6 +2248,10 @@ scoreboard objectives remove c.smoothSandstoneSlab
 scoreboard objectives remove c.smoothSandstoneStairs 
 scoreboard objectives remove c.smoothStone 
 scoreboard objectives remove c.smoothStoneSlab 
+scoreboard objectives remove c.snifferEgg 
+scoreboard objectives remove c.snifferSpawnEgg 
+scoreboard objectives remove c.snortPotterySherd 
+scoreboard objectives remove c.snoutArmorTrimSmithingTemplate 
 scoreboard objectives remove c.snow 
 scoreboard objectives remove c.snowBlock 
 scoreboard objectives remove c.snowGolemSpawnEgg 
@@ -2127,6 +2265,7 @@ scoreboard objectives remove c.spawner
 scoreboard objectives remove c.spectralArrow 
 scoreboard objectives remove c.spiderEye 
 scoreboard objectives remove c.spiderSpawnEgg 
+scoreboard objectives remove c.spireArmorTrimSmithingTemplate 
 scoreboard objectives remove c.splashPotion 
 scoreboard objectives remove c.sponge 
 scoreboard objectives remove c.sporeBlossom 
@@ -2136,6 +2275,7 @@ scoreboard objectives remove c.spruceChestBoat
 scoreboard objectives remove c.spruceDoor 
 scoreboard objectives remove c.spruceFence 
 scoreboard objectives remove c.spruceFenceGate 
+scoreboard objectives remove c.spruceHangingSign 
 scoreboard objectives remove c.spruceLeaves 
 scoreboard objectives remove c.spruceLog 
 scoreboard objectives remove c.sprucePlanks 
@@ -2191,6 +2331,8 @@ scoreboard objectives remove c.structureVoid
 scoreboard objectives remove c.sugar 
 scoreboard objectives remove c.sugarCane 
 scoreboard objectives remove c.sunflower 
+scoreboard objectives remove c.suspiciousGravel 
+scoreboard objectives remove c.suspiciousSand 
 scoreboard objectives remove c.suspiciousStew 
 scoreboard objectives remove c.sweetBerries 
 scoreboard objectives remove c.tadpoleBucket 
@@ -2198,11 +2340,14 @@ scoreboard objectives remove c.tadpoleSpawnEgg
 scoreboard objectives remove c.tallGrass 
 scoreboard objectives remove c.target 
 scoreboard objectives remove c.terracotta 
+scoreboard objectives remove c.tideArmorTrimSmithingTemplate 
 scoreboard objectives remove c.tintedGlass 
 scoreboard objectives remove c.tippedArrow 
 scoreboard objectives remove c.tnt 
 scoreboard objectives remove c.tntMinecart 
 scoreboard objectives remove c.torch 
+scoreboard objectives remove c.torchflower 
+scoreboard objectives remove c.torchflowerSeeds 
 scoreboard objectives remove c.totemOfUndying 
 scoreboard objectives remove c.traderLlamaSpawnEgg 
 scoreboard objectives remove c.trappedChest 
@@ -2221,11 +2366,13 @@ scoreboard objectives remove c.turtleScute
 scoreboard objectives remove c.turtleSpawnEgg 
 scoreboard objectives remove c.twistingVines 
 scoreboard objectives remove c.verdantFroglight 
+scoreboard objectives remove c.vexArmorTrimSmithingTemplate 
 scoreboard objectives remove c.vexSpawnEgg 
 scoreboard objectives remove c.villagerSpawnEgg 
 scoreboard objectives remove c.vindicatorSpawnEgg 
 scoreboard objectives remove c.vine 
 scoreboard objectives remove c.wanderingTraderSpawnEgg 
+scoreboard objectives remove c.wardArmorTrimSmithingTemplate 
 scoreboard objectives remove c.wardenSpawnEgg 
 scoreboard objectives remove c.warpedButton 
 scoreboard objectives remove c.warpedDoor 
@@ -2233,6 +2380,7 @@ scoreboard objectives remove c.warpedFence
 scoreboard objectives remove c.warpedFenceGate 
 scoreboard objectives remove c.warpedFungus 
 scoreboard objectives remove c.warpedFungusOnAStick 
+scoreboard objectives remove c.warpedHangingSign 
 scoreboard objectives remove c.warpedHyphae 
 scoreboard objectives remove c.warpedNylium 
 scoreboard objectives remove c.warpedPlanks 
@@ -2261,6 +2409,7 @@ scoreboard objectives remove c.waxedWeatheredCopper
 scoreboard objectives remove c.waxedWeatheredCutCopper 
 scoreboard objectives remove c.waxedWeatheredCutCopperSlab 
 scoreboard objectives remove c.waxedWeatheredCutCopperStairs 
+scoreboard objectives remove c.wayfinderArmorTrimSmithingTemplate 
 scoreboard objectives remove c.weatheredCopper 
 scoreboard objectives remove c.weatheredCutCopper 
 scoreboard objectives remove c.weatheredCutCopperSlab 
@@ -2283,6 +2432,7 @@ scoreboard objectives remove c.whiteStainedGlassPane
 scoreboard objectives remove c.whiteTerracotta 
 scoreboard objectives remove c.whiteTulip 
 scoreboard objectives remove c.whiteWool 
+scoreboard objectives remove c.wildArmorTrimSmithingTemplate 
 scoreboard objectives remove c.witchSpawnEgg 
 scoreboard objectives remove c.witherRose 
 scoreboard objectives remove c.witherSkeletonSkull 
@@ -2426,6 +2576,7 @@ scoreboard objectives remove d.bat
 scoreboard objectives remove d.bee 
 scoreboard objectives remove d.blaze 
 scoreboard objectives remove d.boat 
+scoreboard objectives remove d.camel 
 scoreboard objectives remove d.cat 
 scoreboard objectives remove d.caveSpider 
 scoreboard objectives remove d.chestBoat 
@@ -2503,6 +2654,7 @@ scoreboard objectives remove d.skeleton
 scoreboard objectives remove d.skeletonHorse 
 scoreboard objectives remove d.slime 
 scoreboard objectives remove d.smallFireball 
+scoreboard objectives remove d.sniffer 
 scoreboard objectives remove d.snowGolem 
 scoreboard objectives remove d.snowball 
 scoreboard objectives remove d.spawnerMinecart 
@@ -2543,6 +2695,7 @@ scoreboard objectives remove k.bat
 scoreboard objectives remove k.bee 
 scoreboard objectives remove k.blaze 
 scoreboard objectives remove k.boat 
+scoreboard objectives remove k.camel 
 scoreboard objectives remove k.cat 
 scoreboard objectives remove k.caveSpider 
 scoreboard objectives remove k.chestBoat 
@@ -2620,6 +2773,7 @@ scoreboard objectives remove k.skeleton
 scoreboard objectives remove k.skeletonHorse 
 scoreboard objectives remove k.slime 
 scoreboard objectives remove k.smallFireball 
+scoreboard objectives remove k.sniffer 
 scoreboard objectives remove k.snowGolem 
 scoreboard objectives remove k.snowball 
 scoreboard objectives remove k.spawnerMinecart 
@@ -2657,6 +2811,7 @@ scoreboard objectives remove u.acaciaChestBoat
 scoreboard objectives remove u.acaciaDoor 
 scoreboard objectives remove u.acaciaFence 
 scoreboard objectives remove u.acaciaFenceGate 
+scoreboard objectives remove u.acaciaHangingSign 
 scoreboard objectives remove u.acaciaLeaves 
 scoreboard objectives remove u.acaciaLog 
 scoreboard objectives remove u.acaciaPlanks 
@@ -2679,10 +2834,13 @@ scoreboard objectives remove u.andesite
 scoreboard objectives remove u.andesiteSlab 
 scoreboard objectives remove u.andesiteStairs 
 scoreboard objectives remove u.andesiteWall 
+scoreboard objectives remove u.anglerPotterySherd 
 scoreboard objectives remove u.anvil 
 scoreboard objectives remove u.apple 
+scoreboard objectives remove u.archerPotterySherd 
 scoreboard objectives remove u.armadilloScute 
 scoreboard objectives remove u.armorStand 
+scoreboard objectives remove u.armsUpPotterySherd 
 scoreboard objectives remove u.arrow 
 scoreboard objectives remove u.axolotlBucket 
 scoreboard objectives remove u.axolotlSpawnEgg 
@@ -2691,6 +2849,12 @@ scoreboard objectives remove u.azaleaLeaves
 scoreboard objectives remove u.azureBluet 
 scoreboard objectives remove u.bakedPotato 
 scoreboard objectives remove u.bamboo 
+scoreboard objectives remove u.bambooBlock 
+scoreboard objectives remove u.bambooChestRaft 
+scoreboard objectives remove u.bambooHangingSign 
+scoreboard objectives remove u.bambooMosaic 
+scoreboard objectives remove u.bambooPlanks 
+scoreboard objectives remove u.bambooRaft 
 scoreboard objectives remove u.barrel 
 scoreboard objectives remove u.barrier 
 scoreboard objectives remove u.basalt 
@@ -2712,6 +2876,7 @@ scoreboard objectives remove u.birchChestBoat
 scoreboard objectives remove u.birchDoor 
 scoreboard objectives remove u.birchFence 
 scoreboard objectives remove u.birchFenceGate 
+scoreboard objectives remove u.birchHangingSign 
 scoreboard objectives remove u.birchLeaves 
 scoreboard objectives remove u.birchLog 
 scoreboard objectives remove u.birchPlanks 
@@ -2739,6 +2904,7 @@ scoreboard objectives remove u.blackstone
 scoreboard objectives remove u.blackstoneSlab 
 scoreboard objectives remove u.blackstoneStairs 
 scoreboard objectives remove u.blackstoneWall 
+scoreboard objectives remove u.bladePotterySherd 
 scoreboard objectives remove u.blastFurnace 
 scoreboard objectives remove u.blazePowder 
 scoreboard objectives remove u.blazeRod 
@@ -2769,6 +2935,7 @@ scoreboard objectives remove u.brainCoral
 scoreboard objectives remove u.brainCoralBlock 
 scoreboard objectives remove u.brainCoralFan 
 scoreboard objectives remove u.bread 
+scoreboard objectives remove u.brewerPotterySherd 
 scoreboard objectives remove u.brewingStand 
 scoreboard objectives remove u.brick 
 scoreboard objectives remove u.brickSlab 
@@ -2790,15 +2957,19 @@ scoreboard objectives remove u.brownStainedGlass
 scoreboard objectives remove u.brownStainedGlassPane 
 scoreboard objectives remove u.brownTerracotta 
 scoreboard objectives remove u.brownWool 
+scoreboard objectives remove u.brush 
 scoreboard objectives remove u.bubbleCoral 
 scoreboard objectives remove u.bubbleCoralBlock 
 scoreboard objectives remove u.bubbleCoralFan 
 scoreboard objectives remove u.bucket 
 scoreboard objectives remove u.buddingAmethyst 
 scoreboard objectives remove u.bundle 
+scoreboard objectives remove u.burnPotterySherd 
 scoreboard objectives remove u.cactus 
 scoreboard objectives remove u.cake 
 scoreboard objectives remove u.calcite 
+scoreboard objectives remove u.calibratedSculkSensor 
+scoreboard objectives remove u.camelSpawnEgg 
 scoreboard objectives remove u.campfire 
 scoreboard objectives remove u.candle 
 scoreboard objectives remove u.carrot 
@@ -2815,11 +2986,19 @@ scoreboard objectives remove u.chainmailChestplate
 scoreboard objectives remove u.chainmailHelmet 
 scoreboard objectives remove u.chainmailLeggings 
 scoreboard objectives remove u.charcoal 
+scoreboard objectives remove u.cherryBoat 
+scoreboard objectives remove u.cherryChestBoat 
+scoreboard objectives remove u.cherryHangingSign 
+scoreboard objectives remove u.cherryLeaves 
+scoreboard objectives remove u.cherryLog 
+scoreboard objectives remove u.cherryPlanks 
+scoreboard objectives remove u.cherrySapling 
 scoreboard objectives remove u.chest 
 scoreboard objectives remove u.chestMinecart 
 scoreboard objectives remove u.chicken 
 scoreboard objectives remove u.chickenSpawnEgg 
 scoreboard objectives remove u.chippedAnvil 
+scoreboard objectives remove u.chiseledBookshelf 
 scoreboard objectives remove u.chiseledDeepslate 
 scoreboard objectives remove u.chiseledNetherBricks 
 scoreboard objectives remove u.chiseledPolishedBlackstone 
@@ -2837,6 +3016,7 @@ scoreboard objectives remove u.coal
 scoreboard objectives remove u.coalBlock 
 scoreboard objectives remove u.coalOre 
 scoreboard objectives remove u.coarseDirt 
+scoreboard objectives remove u.coastArmorTrimSmithingTemplate 
 scoreboard objectives remove u.cobbledDeepslate 
 scoreboard objectives remove u.cobbledDeepslateSlab 
 scoreboard objectives remove u.cobbledDeepslateStairs 
@@ -2883,6 +3063,7 @@ scoreboard objectives remove u.crimsonDoor
 scoreboard objectives remove u.crimsonFence 
 scoreboard objectives remove u.crimsonFenceGate 
 scoreboard objectives remove u.crimsonFungus 
+scoreboard objectives remove u.crimsonHangingSign 
 scoreboard objectives remove u.crimsonHyphae 
 scoreboard objectives remove u.crimsonNylium 
 scoreboard objectives remove u.crimsonPlanks 
@@ -2917,12 +3098,14 @@ scoreboard objectives remove u.cyanTerracotta
 scoreboard objectives remove u.cyanWool 
 scoreboard objectives remove u.damagedAnvil 
 scoreboard objectives remove u.dandelion 
+scoreboard objectives remove u.dangerPotterySherd 
 scoreboard objectives remove u.darkOakBoat 
 scoreboard objectives remove u.darkOakButton 
 scoreboard objectives remove u.darkOakChestBoat 
 scoreboard objectives remove u.darkOakDoor 
 scoreboard objectives remove u.darkOakFence 
 scoreboard objectives remove u.darkOakFenceGate 
+scoreboard objectives remove u.darkOakHangingSign 
 scoreboard objectives remove u.darkOakLeaves 
 scoreboard objectives remove u.darkOakLog 
 scoreboard objectives remove u.darkOakPlanks 
@@ -2954,6 +3137,7 @@ scoreboard objectives remove u.deadTubeCoral
 scoreboard objectives remove u.deadTubeCoralBlock 
 scoreboard objectives remove u.deadTubeCoralFan 
 scoreboard objectives remove u.debugStick 
+scoreboard objectives remove u.decoratedPot 
 scoreboard objectives remove u.deepslate 
 scoreboard objectives remove u.deepslateBrickSlab 
 scoreboard objectives remove u.deepslateBrickStairs 
@@ -3003,6 +3187,7 @@ scoreboard objectives remove u.driedKelpBlock
 scoreboard objectives remove u.dripstoneBlock 
 scoreboard objectives remove u.dropper 
 scoreboard objectives remove u.drownedSpawnEgg 
+scoreboard objectives remove u.duneArmorTrimSmithingTemplate 
 scoreboard objectives remove u.echoShard 
 scoreboard objectives remove u.egg 
 scoreboard objectives remove u.elderGuardianSpawnEgg 
@@ -3029,10 +3214,12 @@ scoreboard objectives remove u.endermanSpawnEgg
 scoreboard objectives remove u.endermiteSpawnEgg 
 scoreboard objectives remove u.evokerSpawnEgg 
 scoreboard objectives remove u.experienceBottle 
+scoreboard objectives remove u.explorerPotterySherd 
 scoreboard objectives remove u.exposedCopper 
 scoreboard objectives remove u.exposedCutCopper 
 scoreboard objectives remove u.exposedCutCopperSlab 
 scoreboard objectives remove u.exposedCutCopperStairs 
+scoreboard objectives remove u.eyeArmorTrimSmithingTemplate 
 scoreboard objectives remove u.farmland 
 scoreboard objectives remove u.feather 
 scoreboard objectives remove u.fermentedSpiderEye 
@@ -3053,6 +3240,7 @@ scoreboard objectives remove u.flowerPot
 scoreboard objectives remove u.floweringAzalea 
 scoreboard objectives remove u.floweringAzaleaLeaves 
 scoreboard objectives remove u.foxSpawnEgg 
+scoreboard objectives remove u.friendPotterySherd 
 scoreboard objectives remove u.frogSpawnEgg 
 scoreboard objectives remove u.frogspawn 
 scoreboard objectives remove u.furnace 
@@ -3128,6 +3316,8 @@ scoreboard objectives remove u.gunpowder
 scoreboard objectives remove u.hangingRoots 
 scoreboard objectives remove u.hayBlock 
 scoreboard objectives remove u.heartOfTheSea 
+scoreboard objectives remove u.heartPotterySherd 
+scoreboard objectives remove u.heartbreakPotterySherd 
 scoreboard objectives remove u.heavyWeightedPressurePlate 
 scoreboard objectives remove u.hoglinSpawnEgg 
 scoreboard objectives remove u.honeyBlock 
@@ -3140,6 +3330,8 @@ scoreboard objectives remove u.hornCoral
 scoreboard objectives remove u.hornCoralBlock 
 scoreboard objectives remove u.hornCoralFan 
 scoreboard objectives remove u.horseSpawnEgg 
+scoreboard objectives remove u.hostArmorTrimSmithingTemplate 
+scoreboard objectives remove u.howlPotterySherd 
 scoreboard objectives remove u.huskSpawnEgg 
 scoreboard objectives remove u.ice 
 scoreboard objectives remove u.infestedChiseledStoneBricks 
@@ -3178,6 +3370,7 @@ scoreboard objectives remove u.jungleChestBoat
 scoreboard objectives remove u.jungleDoor 
 scoreboard objectives remove u.jungleFence 
 scoreboard objectives remove u.jungleFenceGate 
+scoreboard objectives remove u.jungleHangingSign 
 scoreboard objectives remove u.jungleLeaves 
 scoreboard objectives remove u.jungleLog 
 scoreboard objectives remove u.junglePlanks 
@@ -3278,6 +3471,7 @@ scoreboard objectives remove u.mangroveChestBoat
 scoreboard objectives remove u.mangroveDoor 
 scoreboard objectives remove u.mangroveFence 
 scoreboard objectives remove u.mangroveFenceGate 
+scoreboard objectives remove u.mangroveHangingSign 
 scoreboard objectives remove u.mangroveLeaves 
 scoreboard objectives remove u.mangroveLog 
 scoreboard objectives remove u.mangrovePlanks 
@@ -3296,6 +3490,7 @@ scoreboard objectives remove u.melonSeeds
 scoreboard objectives remove u.melonSlice 
 scoreboard objectives remove u.milkBucket 
 scoreboard objectives remove u.minecart 
+scoreboard objectives remove u.minerPotterySherd 
 scoreboard objectives remove u.mojangBannerPattern 
 scoreboard objectives remove u.mooshroomSpawnEgg 
 scoreboard objectives remove u.mossBlock 
@@ -3308,6 +3503,7 @@ scoreboard objectives remove u.mossyStoneBrickSlab
 scoreboard objectives remove u.mossyStoneBrickStairs 
 scoreboard objectives remove u.mossyStoneBrickWall 
 scoreboard objectives remove u.mossyStoneBricks 
+scoreboard objectives remove u.mournerPotterySherd 
 scoreboard objectives remove u.mud 
 scoreboard objectives remove u.mudBrickSlab 
 scoreboard objectives remove u.mudBrickStairs 
@@ -3328,6 +3524,7 @@ scoreboard objectives remove u.musicDiscMall
 scoreboard objectives remove u.musicDiscMellohi 
 scoreboard objectives remove u.musicDiscOtherside 
 scoreboard objectives remove u.musicDiscPigstep 
+scoreboard objectives remove u.musicDiscRelic 
 scoreboard objectives remove u.musicDiscStal 
 scoreboard objectives remove u.musicDiscStrad 
 scoreboard objectives remove u.musicDiscWait 
@@ -3360,6 +3557,7 @@ scoreboard objectives remove u.netheritePickaxe
 scoreboard objectives remove u.netheriteScrap 
 scoreboard objectives remove u.netheriteShovel 
 scoreboard objectives remove u.netheriteSword 
+scoreboard objectives remove u.netheriteUpgradeSmithingTemplate 
 scoreboard objectives remove u.netherrack 
 scoreboard objectives remove u.noteBlock 
 scoreboard objectives remove u.oakBoat 
@@ -3368,6 +3566,7 @@ scoreboard objectives remove u.oakChestBoat
 scoreboard objectives remove u.oakDoor 
 scoreboard objectives remove u.oakFence 
 scoreboard objectives remove u.oakFenceGate 
+scoreboard objectives remove u.oakHangingSign 
 scoreboard objectives remove u.oakLeaves 
 scoreboard objectives remove u.oakLog 
 scoreboard objectives remove u.oakPlanks 
@@ -3415,6 +3614,7 @@ scoreboard objectives remove u.phantomSpawnEgg
 scoreboard objectives remove u.pigSpawnEgg 
 scoreboard objectives remove u.piglinBannerPattern 
 scoreboard objectives remove u.piglinBruteSpawnEgg 
+scoreboard objectives remove u.piglinHead 
 scoreboard objectives remove u.piglinSpawnEgg 
 scoreboard objectives remove u.pillagerSpawnEgg 
 scoreboard objectives remove u.pinkBanner 
@@ -3425,6 +3625,7 @@ scoreboard objectives remove u.pinkConcrete
 scoreboard objectives remove u.pinkConcretePowder 
 scoreboard objectives remove u.pinkDye 
 scoreboard objectives remove u.pinkGlazedTerracotta 
+scoreboard objectives remove u.pinkPetals 
 scoreboard objectives remove u.pinkShulkerBox 
 scoreboard objectives remove u.pinkStainedGlass 
 scoreboard objectives remove u.pinkStainedGlassPane 
@@ -3432,7 +3633,10 @@ scoreboard objectives remove u.pinkTerracotta
 scoreboard objectives remove u.pinkTulip 
 scoreboard objectives remove u.pinkWool 
 scoreboard objectives remove u.piston 
+scoreboard objectives remove u.pitcherPlant 
+scoreboard objectives remove u.pitcherPod 
 scoreboard objectives remove u.playerHead 
+scoreboard objectives remove u.plentyPotterySherd 
 scoreboard objectives remove u.podzol 
 scoreboard objectives remove u.pointedDripstone 
 scoreboard objectives remove u.poisonousPotato 
@@ -3477,6 +3681,7 @@ scoreboard objectives remove u.prismarineShard
 scoreboard objectives remove u.prismarineSlab 
 scoreboard objectives remove u.prismarineStairs 
 scoreboard objectives remove u.prismarineWall 
+scoreboard objectives remove u.prizePotterySherd 
 scoreboard objectives remove u.pufferfish 
 scoreboard objectives remove u.pufferfishBucket 
 scoreboard objectives remove u.pufferfishSpawnEgg 
@@ -3512,6 +3717,7 @@ scoreboard objectives remove u.rabbitHide
 scoreboard objectives remove u.rabbitSpawnEgg 
 scoreboard objectives remove u.rabbitStew 
 scoreboard objectives remove u.rail 
+scoreboard objectives remove u.raiserArmorTrimSmithingTemplate 
 scoreboard objectives remove u.ravagerSpawnEgg 
 scoreboard objectives remove u.rawCopper 
 scoreboard objectives remove u.rawCopperBlock 
@@ -3554,6 +3760,7 @@ scoreboard objectives remove u.reinforcedDeepslate
 scoreboard objectives remove u.repeater 
 scoreboard objectives remove u.repeatingCommandBlock 
 scoreboard objectives remove u.respawnAnchor 
+scoreboard objectives remove u.ribArmorTrimSmithingTemplate 
 scoreboard objectives remove u.rootedDirt 
 scoreboard objectives remove u.roseBush 
 scoreboard objectives remove u.rottenFlesh 
@@ -3575,19 +3782,25 @@ scoreboard objectives remove u.sculkVein
 scoreboard objectives remove u.seaLantern 
 scoreboard objectives remove u.seaPickle 
 scoreboard objectives remove u.seagrass 
+scoreboard objectives remove u.sentryArmorTrimSmithingTemplate 
+scoreboard objectives remove u.shaperArmorTrimSmithingTemplate 
+scoreboard objectives remove u.sheafPotterySherd 
 scoreboard objectives remove u.shears 
 scoreboard objectives remove u.sheepSpawnEgg 
+scoreboard objectives remove u.shelterPotterySherd 
 scoreboard objectives remove u.shield 
 scoreboard objectives remove u.shortGrass 
 scoreboard objectives remove u.shroomlight 
 scoreboard objectives remove u.shulkerBox 
 scoreboard objectives remove u.shulkerShell 
 scoreboard objectives remove u.shulkerSpawnEgg 
+scoreboard objectives remove u.silenceArmorTrimSmithingTemplate 
 scoreboard objectives remove u.silverfishSpawnEgg 
 scoreboard objectives remove u.skeletonHorseSpawnEgg 
 scoreboard objectives remove u.skeletonSkull 
 scoreboard objectives remove u.skeletonSpawnEgg 
 scoreboard objectives remove u.skullBannerPattern 
+scoreboard objectives remove u.skullPotterySherd 
 scoreboard objectives remove u.slimeBall 
 scoreboard objectives remove u.slimeBlock 
 scoreboard objectives remove u.slimeSpawnEgg 
@@ -3607,6 +3820,10 @@ scoreboard objectives remove u.smoothSandstoneSlab
 scoreboard objectives remove u.smoothSandstoneStairs 
 scoreboard objectives remove u.smoothStone 
 scoreboard objectives remove u.smoothStoneSlab 
+scoreboard objectives remove u.snifferEgg 
+scoreboard objectives remove u.snifferSpawnEgg 
+scoreboard objectives remove u.snortPotterySherd 
+scoreboard objectives remove u.snoutArmorTrimSmithingTemplate 
 scoreboard objectives remove u.snow 
 scoreboard objectives remove u.snowBlock 
 scoreboard objectives remove u.snowGolemSpawnEgg 
@@ -3620,6 +3837,7 @@ scoreboard objectives remove u.spawner
 scoreboard objectives remove u.spectralArrow 
 scoreboard objectives remove u.spiderEye 
 scoreboard objectives remove u.spiderSpawnEgg 
+scoreboard objectives remove u.spireArmorTrimSmithingTemplate 
 scoreboard objectives remove u.splashPotion 
 scoreboard objectives remove u.sponge 
 scoreboard objectives remove u.sporeBlossom 
@@ -3629,6 +3847,7 @@ scoreboard objectives remove u.spruceChestBoat
 scoreboard objectives remove u.spruceDoor 
 scoreboard objectives remove u.spruceFence 
 scoreboard objectives remove u.spruceFenceGate 
+scoreboard objectives remove u.spruceHangingSign 
 scoreboard objectives remove u.spruceLeaves 
 scoreboard objectives remove u.spruceLog 
 scoreboard objectives remove u.sprucePlanks 
@@ -3684,6 +3903,8 @@ scoreboard objectives remove u.structureVoid
 scoreboard objectives remove u.sugar 
 scoreboard objectives remove u.sugarCane 
 scoreboard objectives remove u.sunflower 
+scoreboard objectives remove u.suspiciousGravel 
+scoreboard objectives remove u.suspiciousSand 
 scoreboard objectives remove u.suspiciousStew 
 scoreboard objectives remove u.sweetBerries 
 scoreboard objectives remove u.tadpoleBucket 
@@ -3691,11 +3912,14 @@ scoreboard objectives remove u.tadpoleSpawnEgg
 scoreboard objectives remove u.tallGrass 
 scoreboard objectives remove u.target 
 scoreboard objectives remove u.terracotta 
+scoreboard objectives remove u.tideArmorTrimSmithingTemplate 
 scoreboard objectives remove u.tintedGlass 
 scoreboard objectives remove u.tippedArrow 
 scoreboard objectives remove u.tnt 
 scoreboard objectives remove u.tntMinecart 
 scoreboard objectives remove u.torch 
+scoreboard objectives remove u.torchflower 
+scoreboard objectives remove u.torchflowerSeeds 
 scoreboard objectives remove u.totemOfUndying 
 scoreboard objectives remove u.traderLlamaSpawnEgg 
 scoreboard objectives remove u.trappedChest 
@@ -3714,11 +3938,13 @@ scoreboard objectives remove u.turtleScute
 scoreboard objectives remove u.turtleSpawnEgg 
 scoreboard objectives remove u.twistingVines 
 scoreboard objectives remove u.verdantFroglight 
+scoreboard objectives remove u.vexArmorTrimSmithingTemplate 
 scoreboard objectives remove u.vexSpawnEgg 
 scoreboard objectives remove u.villagerSpawnEgg 
 scoreboard objectives remove u.vindicatorSpawnEgg 
 scoreboard objectives remove u.vine 
 scoreboard objectives remove u.wanderingTraderSpawnEgg 
+scoreboard objectives remove u.wardArmorTrimSmithingTemplate 
 scoreboard objectives remove u.wardenSpawnEgg 
 scoreboard objectives remove u.warpedButton 
 scoreboard objectives remove u.warpedDoor 
@@ -3726,6 +3952,7 @@ scoreboard objectives remove u.warpedFence
 scoreboard objectives remove u.warpedFenceGate 
 scoreboard objectives remove u.warpedFungus 
 scoreboard objectives remove u.warpedFungusOnAStick 
+scoreboard objectives remove u.warpedHangingSign 
 scoreboard objectives remove u.warpedHyphae 
 scoreboard objectives remove u.warpedNylium 
 scoreboard objectives remove u.warpedPlanks 
@@ -3754,6 +3981,7 @@ scoreboard objectives remove u.waxedWeatheredCopper
 scoreboard objectives remove u.waxedWeatheredCutCopper 
 scoreboard objectives remove u.waxedWeatheredCutCopperSlab 
 scoreboard objectives remove u.waxedWeatheredCutCopperStairs 
+scoreboard objectives remove u.wayfinderArmorTrimSmithingTemplate 
 scoreboard objectives remove u.weatheredCopper 
 scoreboard objectives remove u.weatheredCutCopper 
 scoreboard objectives remove u.weatheredCutCopperSlab 
@@ -3776,6 +4004,7 @@ scoreboard objectives remove u.whiteStainedGlassPane
 scoreboard objectives remove u.whiteTerracotta 
 scoreboard objectives remove u.whiteTulip 
 scoreboard objectives remove u.whiteWool 
+scoreboard objectives remove u.wildArmorTrimSmithingTemplate 
 scoreboard objectives remove u.witchSpawnEgg 
 scoreboard objectives remove u.witherRose 
 scoreboard objectives remove u.witherSkeletonSkull 
@@ -3813,6 +4042,7 @@ scoreboard objectives remove m.acaciaButton
 scoreboard objectives remove m.acaciaDoor 
 scoreboard objectives remove m.acaciaFence 
 scoreboard objectives remove m.acaciaFenceGate 
+scoreboard objectives remove m.acaciaHangingSign 
 scoreboard objectives remove m.acaciaLeaves 
 scoreboard objectives remove m.acaciaLog 
 scoreboard objectives remove m.acaciaPlanks 
@@ -3841,6 +4071,10 @@ scoreboard objectives remove m.azalea
 scoreboard objectives remove m.azaleaLeaves 
 scoreboard objectives remove m.azureBluet 
 scoreboard objectives remove m.bamboo 
+scoreboard objectives remove m.bambooBlock 
+scoreboard objectives remove m.bambooHangingSign 
+scoreboard objectives remove m.bambooMosaic 
+scoreboard objectives remove m.bambooPlanks 
 scoreboard objectives remove m.bambooSapling 
 scoreboard objectives remove m.barrel 
 scoreboard objectives remove m.barrier 
@@ -3857,6 +4091,7 @@ scoreboard objectives remove m.birchButton
 scoreboard objectives remove m.birchDoor 
 scoreboard objectives remove m.birchFence 
 scoreboard objectives remove m.birchFenceGate 
+scoreboard objectives remove m.birchHangingSign 
 scoreboard objectives remove m.birchLeaves 
 scoreboard objectives remove m.birchLog 
 scoreboard objectives remove m.birchPlanks 
@@ -3939,6 +4174,7 @@ scoreboard objectives remove m.buddingAmethyst
 scoreboard objectives remove m.cactus 
 scoreboard objectives remove m.cake 
 scoreboard objectives remove m.calcite 
+scoreboard objectives remove m.calibratedSculkSensor 
 scoreboard objectives remove m.campfire 
 scoreboard objectives remove m.candle 
 scoreboard objectives remove m.candleCake 
@@ -3951,8 +4187,14 @@ scoreboard objectives remove m.caveVines
 scoreboard objectives remove m.caveVinesPlant 
 scoreboard objectives remove m.chain 
 scoreboard objectives remove m.chainCommandBlock 
+scoreboard objectives remove m.cherryHangingSign 
+scoreboard objectives remove m.cherryLeaves 
+scoreboard objectives remove m.cherryLog 
+scoreboard objectives remove m.cherryPlanks 
+scoreboard objectives remove m.cherrySapling 
 scoreboard objectives remove m.chest 
 scoreboard objectives remove m.chippedAnvil 
+scoreboard objectives remove m.chiseledBookshelf 
 scoreboard objectives remove m.chiseledDeepslate 
 scoreboard objectives remove m.chiseledNetherBricks 
 scoreboard objectives remove m.chiseledPolishedBlackstone 
@@ -3996,6 +4238,7 @@ scoreboard objectives remove m.crimsonDoor
 scoreboard objectives remove m.crimsonFence 
 scoreboard objectives remove m.crimsonFenceGate 
 scoreboard objectives remove m.crimsonFungus 
+scoreboard objectives remove m.crimsonHangingSign 
 scoreboard objectives remove m.crimsonHyphae 
 scoreboard objectives remove m.crimsonNylium 
 scoreboard objectives remove m.crimsonPlanks 
@@ -4035,6 +4278,7 @@ scoreboard objectives remove m.darkOakButton
 scoreboard objectives remove m.darkOakDoor 
 scoreboard objectives remove m.darkOakFence 
 scoreboard objectives remove m.darkOakFenceGate 
+scoreboard objectives remove m.darkOakHangingSign 
 scoreboard objectives remove m.darkOakLeaves 
 scoreboard objectives remove m.darkOakLog 
 scoreboard objectives remove m.darkOakPlanks 
@@ -4071,6 +4315,7 @@ scoreboard objectives remove m.deadTubeCoral
 scoreboard objectives remove m.deadTubeCoralBlock 
 scoreboard objectives remove m.deadTubeCoralFan 
 scoreboard objectives remove m.deadTubeCoralWallFan 
+scoreboard objectives remove m.decoratedPot 
 scoreboard objectives remove m.deepslate 
 scoreboard objectives remove m.deepslateBrickSlab 
 scoreboard objectives remove m.deepslateBrickStairs 
@@ -4207,6 +4452,7 @@ scoreboard objectives remove m.jungleButton
 scoreboard objectives remove m.jungleDoor 
 scoreboard objectives remove m.jungleFence 
 scoreboard objectives remove m.jungleFenceGate 
+scoreboard objectives remove m.jungleHangingSign 
 scoreboard objectives remove m.jungleLeaves 
 scoreboard objectives remove m.jungleLog 
 scoreboard objectives remove m.junglePlanks 
@@ -4299,6 +4545,7 @@ scoreboard objectives remove m.mangroveButton
 scoreboard objectives remove m.mangroveDoor 
 scoreboard objectives remove m.mangroveFence 
 scoreboard objectives remove m.mangroveFenceGate 
+scoreboard objectives remove m.mangroveHangingSign 
 scoreboard objectives remove m.mangroveLeaves 
 scoreboard objectives remove m.mangroveLog 
 scoreboard objectives remove m.mangrovePlanks 
@@ -4351,6 +4598,7 @@ scoreboard objectives remove m.oakButton
 scoreboard objectives remove m.oakDoor 
 scoreboard objectives remove m.oakFence 
 scoreboard objectives remove m.oakFenceGate 
+scoreboard objectives remove m.oakHangingSign 
 scoreboard objectives remove m.oakLeaves 
 scoreboard objectives remove m.oakLog 
 scoreboard objectives remove m.oakPlanks 
@@ -4390,6 +4638,7 @@ scoreboard objectives remove m.packedMud
 scoreboard objectives remove m.pearlescentFroglight 
 scoreboard objectives remove m.peony 
 scoreboard objectives remove m.petrifiedOakSlab 
+scoreboard objectives remove m.piglinHead 
 scoreboard objectives remove m.pinkBanner 
 scoreboard objectives remove m.pinkBed 
 scoreboard objectives remove m.pinkCandle 
@@ -4398,6 +4647,7 @@ scoreboard objectives remove m.pinkCarpet
 scoreboard objectives remove m.pinkConcrete 
 scoreboard objectives remove m.pinkConcretePowder 
 scoreboard objectives remove m.pinkGlazedTerracotta 
+scoreboard objectives remove m.pinkPetals 
 scoreboard objectives remove m.pinkShulkerBox 
 scoreboard objectives remove m.pinkStainedGlass 
 scoreboard objectives remove m.pinkStainedGlassPane 
@@ -4407,6 +4657,7 @@ scoreboard objectives remove m.pinkWallBanner
 scoreboard objectives remove m.pinkWool 
 scoreboard objectives remove m.piston 
 scoreboard objectives remove m.pistonHead 
+scoreboard objectives remove m.pitcherPlant 
 scoreboard objectives remove m.playerHead 
 scoreboard objectives remove m.playerWallHead 
 scoreboard objectives remove m.podzol 
@@ -4582,6 +4833,7 @@ scoreboard objectives remove m.smoothSandstoneSlab
 scoreboard objectives remove m.smoothSandstoneStairs 
 scoreboard objectives remove m.smoothStone 
 scoreboard objectives remove m.smoothStoneSlab 
+scoreboard objectives remove m.snifferEgg 
 scoreboard objectives remove m.snow 
 scoreboard objectives remove m.snowBlock 
 scoreboard objectives remove m.soulCampfire 
@@ -4598,6 +4850,7 @@ scoreboard objectives remove m.spruceButton
 scoreboard objectives remove m.spruceDoor 
 scoreboard objectives remove m.spruceFence 
 scoreboard objectives remove m.spruceFenceGate 
+scoreboard objectives remove m.spruceHangingSign 
 scoreboard objectives remove m.spruceLeaves 
 scoreboard objectives remove m.spruceLog 
 scoreboard objectives remove m.sprucePlanks 
@@ -4642,6 +4895,8 @@ scoreboard objectives remove m.structureBlock
 scoreboard objectives remove m.structureVoid 
 scoreboard objectives remove m.sugarCane 
 scoreboard objectives remove m.sunflower 
+scoreboard objectives remove m.suspiciousGravel 
+scoreboard objectives remove m.suspiciousSand 
 scoreboard objectives remove m.sweetBerryBush 
 scoreboard objectives remove m.tallGrass 
 scoreboard objectives remove m.tallSeagrass 
@@ -4650,6 +4905,7 @@ scoreboard objectives remove m.terracotta
 scoreboard objectives remove m.tintedGlass 
 scoreboard objectives remove m.tnt 
 scoreboard objectives remove m.torch 
+scoreboard objectives remove m.torchflower 
 scoreboard objectives remove m.trappedChest 
 scoreboard objectives remove m.tripwire 
 scoreboard objectives remove m.tripwireHook 
@@ -4670,6 +4926,7 @@ scoreboard objectives remove m.warpedDoor
 scoreboard objectives remove m.warpedFence 
 scoreboard objectives remove m.warpedFenceGate 
 scoreboard objectives remove m.warpedFungus 
+scoreboard objectives remove m.warpedHangingSign 
 scoreboard objectives remove m.warpedHyphae 
 scoreboard objectives remove m.warpedNylium 
 scoreboard objectives remove m.warpedPlanks 
@@ -4749,6 +5006,7 @@ scoreboard objectives remove p.acaciaChestBoat
 scoreboard objectives remove p.acaciaDoor 
 scoreboard objectives remove p.acaciaFence 
 scoreboard objectives remove p.acaciaFenceGate 
+scoreboard objectives remove p.acaciaHangingSign 
 scoreboard objectives remove p.acaciaLeaves 
 scoreboard objectives remove p.acaciaLog 
 scoreboard objectives remove p.acaciaPlanks 
@@ -4771,10 +5029,13 @@ scoreboard objectives remove p.andesite
 scoreboard objectives remove p.andesiteSlab 
 scoreboard objectives remove p.andesiteStairs 
 scoreboard objectives remove p.andesiteWall 
+scoreboard objectives remove p.anglerPotterySherd 
 scoreboard objectives remove p.anvil 
 scoreboard objectives remove p.apple 
+scoreboard objectives remove p.archerPotterySherd 
 scoreboard objectives remove p.armadilloScute 
 scoreboard objectives remove p.armorStand 
+scoreboard objectives remove p.armsUpPotterySherd 
 scoreboard objectives remove p.arrow 
 scoreboard objectives remove p.axolotlBucket 
 scoreboard objectives remove p.axolotlSpawnEgg 
@@ -4783,6 +5044,12 @@ scoreboard objectives remove p.azaleaLeaves
 scoreboard objectives remove p.azureBluet 
 scoreboard objectives remove p.bakedPotato 
 scoreboard objectives remove p.bamboo 
+scoreboard objectives remove p.bambooBlock 
+scoreboard objectives remove p.bambooChestRaft 
+scoreboard objectives remove p.bambooHangingSign 
+scoreboard objectives remove p.bambooMosaic 
+scoreboard objectives remove p.bambooPlanks 
+scoreboard objectives remove p.bambooRaft 
 scoreboard objectives remove p.barrel 
 scoreboard objectives remove p.barrier 
 scoreboard objectives remove p.basalt 
@@ -4804,6 +5071,7 @@ scoreboard objectives remove p.birchChestBoat
 scoreboard objectives remove p.birchDoor 
 scoreboard objectives remove p.birchFence 
 scoreboard objectives remove p.birchFenceGate 
+scoreboard objectives remove p.birchHangingSign 
 scoreboard objectives remove p.birchLeaves 
 scoreboard objectives remove p.birchLog 
 scoreboard objectives remove p.birchPlanks 
@@ -4831,6 +5099,7 @@ scoreboard objectives remove p.blackstone
 scoreboard objectives remove p.blackstoneSlab 
 scoreboard objectives remove p.blackstoneStairs 
 scoreboard objectives remove p.blackstoneWall 
+scoreboard objectives remove p.bladePotterySherd 
 scoreboard objectives remove p.blastFurnace 
 scoreboard objectives remove p.blazePowder 
 scoreboard objectives remove p.blazeRod 
@@ -4861,6 +5130,7 @@ scoreboard objectives remove p.brainCoral
 scoreboard objectives remove p.brainCoralBlock 
 scoreboard objectives remove p.brainCoralFan 
 scoreboard objectives remove p.bread 
+scoreboard objectives remove p.brewerPotterySherd 
 scoreboard objectives remove p.brewingStand 
 scoreboard objectives remove p.brick 
 scoreboard objectives remove p.brickSlab 
@@ -4882,15 +5152,19 @@ scoreboard objectives remove p.brownStainedGlass
 scoreboard objectives remove p.brownStainedGlassPane 
 scoreboard objectives remove p.brownTerracotta 
 scoreboard objectives remove p.brownWool 
+scoreboard objectives remove p.brush 
 scoreboard objectives remove p.bubbleCoral 
 scoreboard objectives remove p.bubbleCoralBlock 
 scoreboard objectives remove p.bubbleCoralFan 
 scoreboard objectives remove p.bucket 
 scoreboard objectives remove p.buddingAmethyst 
 scoreboard objectives remove p.bundle 
+scoreboard objectives remove p.burnPotterySherd 
 scoreboard objectives remove p.cactus 
 scoreboard objectives remove p.cake 
 scoreboard objectives remove p.calcite 
+scoreboard objectives remove p.calibratedSculkSensor 
+scoreboard objectives remove p.camelSpawnEgg 
 scoreboard objectives remove p.campfire 
 scoreboard objectives remove p.candle 
 scoreboard objectives remove p.carrot 
@@ -4907,11 +5181,19 @@ scoreboard objectives remove p.chainmailChestplate
 scoreboard objectives remove p.chainmailHelmet 
 scoreboard objectives remove p.chainmailLeggings 
 scoreboard objectives remove p.charcoal 
+scoreboard objectives remove p.cherryBoat 
+scoreboard objectives remove p.cherryChestBoat 
+scoreboard objectives remove p.cherryHangingSign 
+scoreboard objectives remove p.cherryLeaves 
+scoreboard objectives remove p.cherryLog 
+scoreboard objectives remove p.cherryPlanks 
+scoreboard objectives remove p.cherrySapling 
 scoreboard objectives remove p.chest 
 scoreboard objectives remove p.chestMinecart 
 scoreboard objectives remove p.chicken 
 scoreboard objectives remove p.chickenSpawnEgg 
 scoreboard objectives remove p.chippedAnvil 
+scoreboard objectives remove p.chiseledBookshelf 
 scoreboard objectives remove p.chiseledDeepslate 
 scoreboard objectives remove p.chiseledNetherBricks 
 scoreboard objectives remove p.chiseledPolishedBlackstone 
@@ -4929,6 +5211,7 @@ scoreboard objectives remove p.coal
 scoreboard objectives remove p.coalBlock 
 scoreboard objectives remove p.coalOre 
 scoreboard objectives remove p.coarseDirt 
+scoreboard objectives remove p.coastArmorTrimSmithingTemplate 
 scoreboard objectives remove p.cobbledDeepslate 
 scoreboard objectives remove p.cobbledDeepslateSlab 
 scoreboard objectives remove p.cobbledDeepslateStairs 
@@ -4975,6 +5258,7 @@ scoreboard objectives remove p.crimsonDoor
 scoreboard objectives remove p.crimsonFence 
 scoreboard objectives remove p.crimsonFenceGate 
 scoreboard objectives remove p.crimsonFungus 
+scoreboard objectives remove p.crimsonHangingSign 
 scoreboard objectives remove p.crimsonHyphae 
 scoreboard objectives remove p.crimsonNylium 
 scoreboard objectives remove p.crimsonPlanks 
@@ -5009,12 +5293,14 @@ scoreboard objectives remove p.cyanTerracotta
 scoreboard objectives remove p.cyanWool 
 scoreboard objectives remove p.damagedAnvil 
 scoreboard objectives remove p.dandelion 
+scoreboard objectives remove p.dangerPotterySherd 
 scoreboard objectives remove p.darkOakBoat 
 scoreboard objectives remove p.darkOakButton 
 scoreboard objectives remove p.darkOakChestBoat 
 scoreboard objectives remove p.darkOakDoor 
 scoreboard objectives remove p.darkOakFence 
 scoreboard objectives remove p.darkOakFenceGate 
+scoreboard objectives remove p.darkOakHangingSign 
 scoreboard objectives remove p.darkOakLeaves 
 scoreboard objectives remove p.darkOakLog 
 scoreboard objectives remove p.darkOakPlanks 
@@ -5046,6 +5332,7 @@ scoreboard objectives remove p.deadTubeCoral
 scoreboard objectives remove p.deadTubeCoralBlock 
 scoreboard objectives remove p.deadTubeCoralFan 
 scoreboard objectives remove p.debugStick 
+scoreboard objectives remove p.decoratedPot 
 scoreboard objectives remove p.deepslate 
 scoreboard objectives remove p.deepslateBrickSlab 
 scoreboard objectives remove p.deepslateBrickStairs 
@@ -5095,6 +5382,7 @@ scoreboard objectives remove p.driedKelpBlock
 scoreboard objectives remove p.dripstoneBlock 
 scoreboard objectives remove p.dropper 
 scoreboard objectives remove p.drownedSpawnEgg 
+scoreboard objectives remove p.duneArmorTrimSmithingTemplate 
 scoreboard objectives remove p.echoShard 
 scoreboard objectives remove p.egg 
 scoreboard objectives remove p.elderGuardianSpawnEgg 
@@ -5121,10 +5409,12 @@ scoreboard objectives remove p.endermanSpawnEgg
 scoreboard objectives remove p.endermiteSpawnEgg 
 scoreboard objectives remove p.evokerSpawnEgg 
 scoreboard objectives remove p.experienceBottle 
+scoreboard objectives remove p.explorerPotterySherd 
 scoreboard objectives remove p.exposedCopper 
 scoreboard objectives remove p.exposedCutCopper 
 scoreboard objectives remove p.exposedCutCopperSlab 
 scoreboard objectives remove p.exposedCutCopperStairs 
+scoreboard objectives remove p.eyeArmorTrimSmithingTemplate 
 scoreboard objectives remove p.farmland 
 scoreboard objectives remove p.feather 
 scoreboard objectives remove p.fermentedSpiderEye 
@@ -5145,6 +5435,7 @@ scoreboard objectives remove p.flowerPot
 scoreboard objectives remove p.floweringAzalea 
 scoreboard objectives remove p.floweringAzaleaLeaves 
 scoreboard objectives remove p.foxSpawnEgg 
+scoreboard objectives remove p.friendPotterySherd 
 scoreboard objectives remove p.frogSpawnEgg 
 scoreboard objectives remove p.frogspawn 
 scoreboard objectives remove p.furnace 
@@ -5220,6 +5511,8 @@ scoreboard objectives remove p.gunpowder
 scoreboard objectives remove p.hangingRoots 
 scoreboard objectives remove p.hayBlock 
 scoreboard objectives remove p.heartOfTheSea 
+scoreboard objectives remove p.heartPotterySherd 
+scoreboard objectives remove p.heartbreakPotterySherd 
 scoreboard objectives remove p.heavyWeightedPressurePlate 
 scoreboard objectives remove p.hoglinSpawnEgg 
 scoreboard objectives remove p.honeyBlock 
@@ -5232,6 +5525,8 @@ scoreboard objectives remove p.hornCoral
 scoreboard objectives remove p.hornCoralBlock 
 scoreboard objectives remove p.hornCoralFan 
 scoreboard objectives remove p.horseSpawnEgg 
+scoreboard objectives remove p.hostArmorTrimSmithingTemplate 
+scoreboard objectives remove p.howlPotterySherd 
 scoreboard objectives remove p.huskSpawnEgg 
 scoreboard objectives remove p.ice 
 scoreboard objectives remove p.infestedChiseledStoneBricks 
@@ -5270,6 +5565,7 @@ scoreboard objectives remove p.jungleChestBoat
 scoreboard objectives remove p.jungleDoor 
 scoreboard objectives remove p.jungleFence 
 scoreboard objectives remove p.jungleFenceGate 
+scoreboard objectives remove p.jungleHangingSign 
 scoreboard objectives remove p.jungleLeaves 
 scoreboard objectives remove p.jungleLog 
 scoreboard objectives remove p.junglePlanks 
@@ -5370,6 +5666,7 @@ scoreboard objectives remove p.mangroveChestBoat
 scoreboard objectives remove p.mangroveDoor 
 scoreboard objectives remove p.mangroveFence 
 scoreboard objectives remove p.mangroveFenceGate 
+scoreboard objectives remove p.mangroveHangingSign 
 scoreboard objectives remove p.mangroveLeaves 
 scoreboard objectives remove p.mangroveLog 
 scoreboard objectives remove p.mangrovePlanks 
@@ -5388,6 +5685,7 @@ scoreboard objectives remove p.melonSeeds
 scoreboard objectives remove p.melonSlice 
 scoreboard objectives remove p.milkBucket 
 scoreboard objectives remove p.minecart 
+scoreboard objectives remove p.minerPotterySherd 
 scoreboard objectives remove p.mojangBannerPattern 
 scoreboard objectives remove p.mooshroomSpawnEgg 
 scoreboard objectives remove p.mossBlock 
@@ -5400,6 +5698,7 @@ scoreboard objectives remove p.mossyStoneBrickSlab
 scoreboard objectives remove p.mossyStoneBrickStairs 
 scoreboard objectives remove p.mossyStoneBrickWall 
 scoreboard objectives remove p.mossyStoneBricks 
+scoreboard objectives remove p.mournerPotterySherd 
 scoreboard objectives remove p.mud 
 scoreboard objectives remove p.mudBrickSlab 
 scoreboard objectives remove p.mudBrickStairs 
@@ -5420,6 +5719,7 @@ scoreboard objectives remove p.musicDiscMall
 scoreboard objectives remove p.musicDiscMellohi 
 scoreboard objectives remove p.musicDiscOtherside 
 scoreboard objectives remove p.musicDiscPigstep 
+scoreboard objectives remove p.musicDiscRelic 
 scoreboard objectives remove p.musicDiscStal 
 scoreboard objectives remove p.musicDiscStrad 
 scoreboard objectives remove p.musicDiscWait 
@@ -5452,6 +5752,7 @@ scoreboard objectives remove p.netheritePickaxe
 scoreboard objectives remove p.netheriteScrap 
 scoreboard objectives remove p.netheriteShovel 
 scoreboard objectives remove p.netheriteSword 
+scoreboard objectives remove p.netheriteUpgradeSmithingTemplate 
 scoreboard objectives remove p.netherrack 
 scoreboard objectives remove p.noteBlock 
 scoreboard objectives remove p.oakBoat 
@@ -5460,6 +5761,7 @@ scoreboard objectives remove p.oakChestBoat
 scoreboard objectives remove p.oakDoor 
 scoreboard objectives remove p.oakFence 
 scoreboard objectives remove p.oakFenceGate 
+scoreboard objectives remove p.oakHangingSign 
 scoreboard objectives remove p.oakLeaves 
 scoreboard objectives remove p.oakLog 
 scoreboard objectives remove p.oakPlanks 
@@ -5507,6 +5809,7 @@ scoreboard objectives remove p.phantomSpawnEgg
 scoreboard objectives remove p.pigSpawnEgg 
 scoreboard objectives remove p.piglinBannerPattern 
 scoreboard objectives remove p.piglinBruteSpawnEgg 
+scoreboard objectives remove p.piglinHead 
 scoreboard objectives remove p.piglinSpawnEgg 
 scoreboard objectives remove p.pillagerSpawnEgg 
 scoreboard objectives remove p.pinkBanner 
@@ -5517,6 +5820,7 @@ scoreboard objectives remove p.pinkConcrete
 scoreboard objectives remove p.pinkConcretePowder 
 scoreboard objectives remove p.pinkDye 
 scoreboard objectives remove p.pinkGlazedTerracotta 
+scoreboard objectives remove p.pinkPetals 
 scoreboard objectives remove p.pinkShulkerBox 
 scoreboard objectives remove p.pinkStainedGlass 
 scoreboard objectives remove p.pinkStainedGlassPane 
@@ -5524,7 +5828,10 @@ scoreboard objectives remove p.pinkTerracotta
 scoreboard objectives remove p.pinkTulip 
 scoreboard objectives remove p.pinkWool 
 scoreboard objectives remove p.piston 
+scoreboard objectives remove p.pitcherPlant 
+scoreboard objectives remove p.pitcherPod 
 scoreboard objectives remove p.playerHead 
+scoreboard objectives remove p.plentyPotterySherd 
 scoreboard objectives remove p.podzol 
 scoreboard objectives remove p.pointedDripstone 
 scoreboard objectives remove p.poisonousPotato 
@@ -5569,6 +5876,7 @@ scoreboard objectives remove p.prismarineShard
 scoreboard objectives remove p.prismarineSlab 
 scoreboard objectives remove p.prismarineStairs 
 scoreboard objectives remove p.prismarineWall 
+scoreboard objectives remove p.prizePotterySherd 
 scoreboard objectives remove p.pufferfish 
 scoreboard objectives remove p.pufferfishBucket 
 scoreboard objectives remove p.pufferfishSpawnEgg 
@@ -5604,6 +5912,7 @@ scoreboard objectives remove p.rabbitHide
 scoreboard objectives remove p.rabbitSpawnEgg 
 scoreboard objectives remove p.rabbitStew 
 scoreboard objectives remove p.rail 
+scoreboard objectives remove p.raiserArmorTrimSmithingTemplate 
 scoreboard objectives remove p.ravagerSpawnEgg 
 scoreboard objectives remove p.rawCopper 
 scoreboard objectives remove p.rawCopperBlock 
@@ -5646,6 +5955,7 @@ scoreboard objectives remove p.reinforcedDeepslate
 scoreboard objectives remove p.repeater 
 scoreboard objectives remove p.repeatingCommandBlock 
 scoreboard objectives remove p.respawnAnchor 
+scoreboard objectives remove p.ribArmorTrimSmithingTemplate 
 scoreboard objectives remove p.rootedDirt 
 scoreboard objectives remove p.roseBush 
 scoreboard objectives remove p.rottenFlesh 
@@ -5667,19 +5977,25 @@ scoreboard objectives remove p.sculkVein
 scoreboard objectives remove p.seaLantern 
 scoreboard objectives remove p.seaPickle 
 scoreboard objectives remove p.seagrass 
+scoreboard objectives remove p.sentryArmorTrimSmithingTemplate 
+scoreboard objectives remove p.shaperArmorTrimSmithingTemplate 
+scoreboard objectives remove p.sheafPotterySherd 
 scoreboard objectives remove p.shears 
 scoreboard objectives remove p.sheepSpawnEgg 
+scoreboard objectives remove p.shelterPotterySherd 
 scoreboard objectives remove p.shield 
 scoreboard objectives remove p.shortGrass 
 scoreboard objectives remove p.shroomlight 
 scoreboard objectives remove p.shulkerBox 
 scoreboard objectives remove p.shulkerShell 
 scoreboard objectives remove p.shulkerSpawnEgg 
+scoreboard objectives remove p.silenceArmorTrimSmithingTemplate 
 scoreboard objectives remove p.silverfishSpawnEgg 
 scoreboard objectives remove p.skeletonHorseSpawnEgg 
 scoreboard objectives remove p.skeletonSkull 
 scoreboard objectives remove p.skeletonSpawnEgg 
 scoreboard objectives remove p.skullBannerPattern 
+scoreboard objectives remove p.skullPotterySherd 
 scoreboard objectives remove p.slimeBall 
 scoreboard objectives remove p.slimeBlock 
 scoreboard objectives remove p.slimeSpawnEgg 
@@ -5699,6 +6015,10 @@ scoreboard objectives remove p.smoothSandstoneSlab
 scoreboard objectives remove p.smoothSandstoneStairs 
 scoreboard objectives remove p.smoothStone 
 scoreboard objectives remove p.smoothStoneSlab 
+scoreboard objectives remove p.snifferEgg 
+scoreboard objectives remove p.snifferSpawnEgg 
+scoreboard objectives remove p.snortPotterySherd 
+scoreboard objectives remove p.snoutArmorTrimSmithingTemplate 
 scoreboard objectives remove p.snow 
 scoreboard objectives remove p.snowBlock 
 scoreboard objectives remove p.snowGolemSpawnEgg 
@@ -5712,6 +6032,7 @@ scoreboard objectives remove p.spawner
 scoreboard objectives remove p.spectralArrow 
 scoreboard objectives remove p.spiderEye 
 scoreboard objectives remove p.spiderSpawnEgg 
+scoreboard objectives remove p.spireArmorTrimSmithingTemplate 
 scoreboard objectives remove p.splashPotion 
 scoreboard objectives remove p.sponge 
 scoreboard objectives remove p.sporeBlossom 
@@ -5721,6 +6042,7 @@ scoreboard objectives remove p.spruceChestBoat
 scoreboard objectives remove p.spruceDoor 
 scoreboard objectives remove p.spruceFence 
 scoreboard objectives remove p.spruceFenceGate 
+scoreboard objectives remove p.spruceHangingSign 
 scoreboard objectives remove p.spruceLeaves 
 scoreboard objectives remove p.spruceLog 
 scoreboard objectives remove p.sprucePlanks 
@@ -5776,6 +6098,8 @@ scoreboard objectives remove p.structureVoid
 scoreboard objectives remove p.sugar 
 scoreboard objectives remove p.sugarCane 
 scoreboard objectives remove p.sunflower 
+scoreboard objectives remove p.suspiciousGravel 
+scoreboard objectives remove p.suspiciousSand 
 scoreboard objectives remove p.suspiciousStew 
 scoreboard objectives remove p.sweetBerries 
 scoreboard objectives remove p.tadpoleBucket 
@@ -5783,11 +6107,14 @@ scoreboard objectives remove p.tadpoleSpawnEgg
 scoreboard objectives remove p.tallGrass 
 scoreboard objectives remove p.target 
 scoreboard objectives remove p.terracotta 
+scoreboard objectives remove p.tideArmorTrimSmithingTemplate 
 scoreboard objectives remove p.tintedGlass 
 scoreboard objectives remove p.tippedArrow 
 scoreboard objectives remove p.tnt 
 scoreboard objectives remove p.tntMinecart 
 scoreboard objectives remove p.torch 
+scoreboard objectives remove p.torchflower 
+scoreboard objectives remove p.torchflowerSeeds 
 scoreboard objectives remove p.totemOfUndying 
 scoreboard objectives remove p.traderLlamaSpawnEgg 
 scoreboard objectives remove p.trappedChest 
@@ -5806,11 +6133,13 @@ scoreboard objectives remove p.turtleScute
 scoreboard objectives remove p.turtleSpawnEgg 
 scoreboard objectives remove p.twistingVines 
 scoreboard objectives remove p.verdantFroglight 
+scoreboard objectives remove p.vexArmorTrimSmithingTemplate 
 scoreboard objectives remove p.vexSpawnEgg 
 scoreboard objectives remove p.villagerSpawnEgg 
 scoreboard objectives remove p.vindicatorSpawnEgg 
 scoreboard objectives remove p.vine 
 scoreboard objectives remove p.wanderingTraderSpawnEgg 
+scoreboard objectives remove p.wardArmorTrimSmithingTemplate 
 scoreboard objectives remove p.wardenSpawnEgg 
 scoreboard objectives remove p.warpedButton 
 scoreboard objectives remove p.warpedDoor 
@@ -5818,6 +6147,7 @@ scoreboard objectives remove p.warpedFence
 scoreboard objectives remove p.warpedFenceGate 
 scoreboard objectives remove p.warpedFungus 
 scoreboard objectives remove p.warpedFungusOnAStick 
+scoreboard objectives remove p.warpedHangingSign 
 scoreboard objectives remove p.warpedHyphae 
 scoreboard objectives remove p.warpedNylium 
 scoreboard objectives remove p.warpedPlanks 
@@ -5846,6 +6176,7 @@ scoreboard objectives remove p.waxedWeatheredCopper
 scoreboard objectives remove p.waxedWeatheredCutCopper 
 scoreboard objectives remove p.waxedWeatheredCutCopperSlab 
 scoreboard objectives remove p.waxedWeatheredCutCopperStairs 
+scoreboard objectives remove p.wayfinderArmorTrimSmithingTemplate 
 scoreboard objectives remove p.weatheredCopper 
 scoreboard objectives remove p.weatheredCutCopper 
 scoreboard objectives remove p.weatheredCutCopperSlab 
@@ -5868,6 +6199,7 @@ scoreboard objectives remove p.whiteStainedGlassPane
 scoreboard objectives remove p.whiteTerracotta 
 scoreboard objectives remove p.whiteTulip 
 scoreboard objectives remove p.whiteWool 
+scoreboard objectives remove p.wildArmorTrimSmithingTemplate 
 scoreboard objectives remove p.witchSpawnEgg 
 scoreboard objectives remove p.witherRose 
 scoreboard objectives remove p.witherSkeletonSkull 
@@ -5907,6 +6239,7 @@ scoreboard objectives remove q.acaciaChestBoat
 scoreboard objectives remove q.acaciaDoor 
 scoreboard objectives remove q.acaciaFence 
 scoreboard objectives remove q.acaciaFenceGate 
+scoreboard objectives remove q.acaciaHangingSign 
 scoreboard objectives remove q.acaciaLeaves 
 scoreboard objectives remove q.acaciaLog 
 scoreboard objectives remove q.acaciaPlanks 
@@ -5929,10 +6262,13 @@ scoreboard objectives remove q.andesite
 scoreboard objectives remove q.andesiteSlab 
 scoreboard objectives remove q.andesiteStairs 
 scoreboard objectives remove q.andesiteWall 
+scoreboard objectives remove q.anglerPotterySherd 
 scoreboard objectives remove q.anvil 
 scoreboard objectives remove q.apple 
+scoreboard objectives remove q.archerPotterySherd 
 scoreboard objectives remove q.armadilloScute 
 scoreboard objectives remove q.armorStand 
+scoreboard objectives remove q.armsUpPotterySherd 
 scoreboard objectives remove q.arrow 
 scoreboard objectives remove q.axolotlBucket 
 scoreboard objectives remove q.axolotlSpawnEgg 
@@ -5941,6 +6277,12 @@ scoreboard objectives remove q.azaleaLeaves
 scoreboard objectives remove q.azureBluet 
 scoreboard objectives remove q.bakedPotato 
 scoreboard objectives remove q.bamboo 
+scoreboard objectives remove q.bambooBlock 
+scoreboard objectives remove q.bambooChestRaft 
+scoreboard objectives remove q.bambooHangingSign 
+scoreboard objectives remove q.bambooMosaic 
+scoreboard objectives remove q.bambooPlanks 
+scoreboard objectives remove q.bambooRaft 
 scoreboard objectives remove q.barrel 
 scoreboard objectives remove q.barrier 
 scoreboard objectives remove q.basalt 
@@ -5962,6 +6304,7 @@ scoreboard objectives remove q.birchChestBoat
 scoreboard objectives remove q.birchDoor 
 scoreboard objectives remove q.birchFence 
 scoreboard objectives remove q.birchFenceGate 
+scoreboard objectives remove q.birchHangingSign 
 scoreboard objectives remove q.birchLeaves 
 scoreboard objectives remove q.birchLog 
 scoreboard objectives remove q.birchPlanks 
@@ -5989,6 +6332,7 @@ scoreboard objectives remove q.blackstone
 scoreboard objectives remove q.blackstoneSlab 
 scoreboard objectives remove q.blackstoneStairs 
 scoreboard objectives remove q.blackstoneWall 
+scoreboard objectives remove q.bladePotterySherd 
 scoreboard objectives remove q.blastFurnace 
 scoreboard objectives remove q.blazePowder 
 scoreboard objectives remove q.blazeRod 
@@ -6019,6 +6363,7 @@ scoreboard objectives remove q.brainCoral
 scoreboard objectives remove q.brainCoralBlock 
 scoreboard objectives remove q.brainCoralFan 
 scoreboard objectives remove q.bread 
+scoreboard objectives remove q.brewerPotterySherd 
 scoreboard objectives remove q.brewingStand 
 scoreboard objectives remove q.brick 
 scoreboard objectives remove q.brickSlab 
@@ -6040,15 +6385,19 @@ scoreboard objectives remove q.brownStainedGlass
 scoreboard objectives remove q.brownStainedGlassPane 
 scoreboard objectives remove q.brownTerracotta 
 scoreboard objectives remove q.brownWool 
+scoreboard objectives remove q.brush 
 scoreboard objectives remove q.bubbleCoral 
 scoreboard objectives remove q.bubbleCoralBlock 
 scoreboard objectives remove q.bubbleCoralFan 
 scoreboard objectives remove q.bucket 
 scoreboard objectives remove q.buddingAmethyst 
 scoreboard objectives remove q.bundle 
+scoreboard objectives remove q.burnPotterySherd 
 scoreboard objectives remove q.cactus 
 scoreboard objectives remove q.cake 
 scoreboard objectives remove q.calcite 
+scoreboard objectives remove q.calibratedSculkSensor 
+scoreboard objectives remove q.camelSpawnEgg 
 scoreboard objectives remove q.campfire 
 scoreboard objectives remove q.candle 
 scoreboard objectives remove q.carrot 
@@ -6065,11 +6414,19 @@ scoreboard objectives remove q.chainmailChestplate
 scoreboard objectives remove q.chainmailHelmet 
 scoreboard objectives remove q.chainmailLeggings 
 scoreboard objectives remove q.charcoal 
+scoreboard objectives remove q.cherryBoat 
+scoreboard objectives remove q.cherryChestBoat 
+scoreboard objectives remove q.cherryHangingSign 
+scoreboard objectives remove q.cherryLeaves 
+scoreboard objectives remove q.cherryLog 
+scoreboard objectives remove q.cherryPlanks 
+scoreboard objectives remove q.cherrySapling 
 scoreboard objectives remove q.chest 
 scoreboard objectives remove q.chestMinecart 
 scoreboard objectives remove q.chicken 
 scoreboard objectives remove q.chickenSpawnEgg 
 scoreboard objectives remove q.chippedAnvil 
+scoreboard objectives remove q.chiseledBookshelf 
 scoreboard objectives remove q.chiseledDeepslate 
 scoreboard objectives remove q.chiseledNetherBricks 
 scoreboard objectives remove q.chiseledPolishedBlackstone 
@@ -6087,6 +6444,7 @@ scoreboard objectives remove q.coal
 scoreboard objectives remove q.coalBlock 
 scoreboard objectives remove q.coalOre 
 scoreboard objectives remove q.coarseDirt 
+scoreboard objectives remove q.coastArmorTrimSmithingTemplate 
 scoreboard objectives remove q.cobbledDeepslate 
 scoreboard objectives remove q.cobbledDeepslateSlab 
 scoreboard objectives remove q.cobbledDeepslateStairs 
@@ -6133,6 +6491,7 @@ scoreboard objectives remove q.crimsonDoor
 scoreboard objectives remove q.crimsonFence 
 scoreboard objectives remove q.crimsonFenceGate 
 scoreboard objectives remove q.crimsonFungus 
+scoreboard objectives remove q.crimsonHangingSign 
 scoreboard objectives remove q.crimsonHyphae 
 scoreboard objectives remove q.crimsonNylium 
 scoreboard objectives remove q.crimsonPlanks 
@@ -6167,12 +6526,14 @@ scoreboard objectives remove q.cyanTerracotta
 scoreboard objectives remove q.cyanWool 
 scoreboard objectives remove q.damagedAnvil 
 scoreboard objectives remove q.dandelion 
+scoreboard objectives remove q.dangerPotterySherd 
 scoreboard objectives remove q.darkOakBoat 
 scoreboard objectives remove q.darkOakButton 
 scoreboard objectives remove q.darkOakChestBoat 
 scoreboard objectives remove q.darkOakDoor 
 scoreboard objectives remove q.darkOakFence 
 scoreboard objectives remove q.darkOakFenceGate 
+scoreboard objectives remove q.darkOakHangingSign 
 scoreboard objectives remove q.darkOakLeaves 
 scoreboard objectives remove q.darkOakLog 
 scoreboard objectives remove q.darkOakPlanks 
@@ -6204,6 +6565,7 @@ scoreboard objectives remove q.deadTubeCoral
 scoreboard objectives remove q.deadTubeCoralBlock 
 scoreboard objectives remove q.deadTubeCoralFan 
 scoreboard objectives remove q.debugStick 
+scoreboard objectives remove q.decoratedPot 
 scoreboard objectives remove q.deepslate 
 scoreboard objectives remove q.deepslateBrickSlab 
 scoreboard objectives remove q.deepslateBrickStairs 
@@ -6253,6 +6615,7 @@ scoreboard objectives remove q.driedKelpBlock
 scoreboard objectives remove q.dripstoneBlock 
 scoreboard objectives remove q.dropper 
 scoreboard objectives remove q.drownedSpawnEgg 
+scoreboard objectives remove q.duneArmorTrimSmithingTemplate 
 scoreboard objectives remove q.echoShard 
 scoreboard objectives remove q.egg 
 scoreboard objectives remove q.elderGuardianSpawnEgg 
@@ -6279,10 +6642,12 @@ scoreboard objectives remove q.endermanSpawnEgg
 scoreboard objectives remove q.endermiteSpawnEgg 
 scoreboard objectives remove q.evokerSpawnEgg 
 scoreboard objectives remove q.experienceBottle 
+scoreboard objectives remove q.explorerPotterySherd 
 scoreboard objectives remove q.exposedCopper 
 scoreboard objectives remove q.exposedCutCopper 
 scoreboard objectives remove q.exposedCutCopperSlab 
 scoreboard objectives remove q.exposedCutCopperStairs 
+scoreboard objectives remove q.eyeArmorTrimSmithingTemplate 
 scoreboard objectives remove q.farmland 
 scoreboard objectives remove q.feather 
 scoreboard objectives remove q.fermentedSpiderEye 
@@ -6303,6 +6668,7 @@ scoreboard objectives remove q.flowerPot
 scoreboard objectives remove q.floweringAzalea 
 scoreboard objectives remove q.floweringAzaleaLeaves 
 scoreboard objectives remove q.foxSpawnEgg 
+scoreboard objectives remove q.friendPotterySherd 
 scoreboard objectives remove q.frogSpawnEgg 
 scoreboard objectives remove q.frogspawn 
 scoreboard objectives remove q.furnace 
@@ -6378,6 +6744,8 @@ scoreboard objectives remove q.gunpowder
 scoreboard objectives remove q.hangingRoots 
 scoreboard objectives remove q.hayBlock 
 scoreboard objectives remove q.heartOfTheSea 
+scoreboard objectives remove q.heartPotterySherd 
+scoreboard objectives remove q.heartbreakPotterySherd 
 scoreboard objectives remove q.heavyWeightedPressurePlate 
 scoreboard objectives remove q.hoglinSpawnEgg 
 scoreboard objectives remove q.honeyBlock 
@@ -6390,6 +6758,8 @@ scoreboard objectives remove q.hornCoral
 scoreboard objectives remove q.hornCoralBlock 
 scoreboard objectives remove q.hornCoralFan 
 scoreboard objectives remove q.horseSpawnEgg 
+scoreboard objectives remove q.hostArmorTrimSmithingTemplate 
+scoreboard objectives remove q.howlPotterySherd 
 scoreboard objectives remove q.huskSpawnEgg 
 scoreboard objectives remove q.ice 
 scoreboard objectives remove q.infestedChiseledStoneBricks 
@@ -6428,6 +6798,7 @@ scoreboard objectives remove q.jungleChestBoat
 scoreboard objectives remove q.jungleDoor 
 scoreboard objectives remove q.jungleFence 
 scoreboard objectives remove q.jungleFenceGate 
+scoreboard objectives remove q.jungleHangingSign 
 scoreboard objectives remove q.jungleLeaves 
 scoreboard objectives remove q.jungleLog 
 scoreboard objectives remove q.junglePlanks 
@@ -6528,6 +6899,7 @@ scoreboard objectives remove q.mangroveChestBoat
 scoreboard objectives remove q.mangroveDoor 
 scoreboard objectives remove q.mangroveFence 
 scoreboard objectives remove q.mangroveFenceGate 
+scoreboard objectives remove q.mangroveHangingSign 
 scoreboard objectives remove q.mangroveLeaves 
 scoreboard objectives remove q.mangroveLog 
 scoreboard objectives remove q.mangrovePlanks 
@@ -6546,6 +6918,7 @@ scoreboard objectives remove q.melonSeeds
 scoreboard objectives remove q.melonSlice 
 scoreboard objectives remove q.milkBucket 
 scoreboard objectives remove q.minecart 
+scoreboard objectives remove q.minerPotterySherd 
 scoreboard objectives remove q.mojangBannerPattern 
 scoreboard objectives remove q.mooshroomSpawnEgg 
 scoreboard objectives remove q.mossBlock 
@@ -6558,6 +6931,7 @@ scoreboard objectives remove q.mossyStoneBrickSlab
 scoreboard objectives remove q.mossyStoneBrickStairs 
 scoreboard objectives remove q.mossyStoneBrickWall 
 scoreboard objectives remove q.mossyStoneBricks 
+scoreboard objectives remove q.mournerPotterySherd 
 scoreboard objectives remove q.mud 
 scoreboard objectives remove q.mudBrickSlab 
 scoreboard objectives remove q.mudBrickStairs 
@@ -6578,6 +6952,7 @@ scoreboard objectives remove q.musicDiscMall
 scoreboard objectives remove q.musicDiscMellohi 
 scoreboard objectives remove q.musicDiscOtherside 
 scoreboard objectives remove q.musicDiscPigstep 
+scoreboard objectives remove q.musicDiscRelic 
 scoreboard objectives remove q.musicDiscStal 
 scoreboard objectives remove q.musicDiscStrad 
 scoreboard objectives remove q.musicDiscWait 
@@ -6610,6 +6985,7 @@ scoreboard objectives remove q.netheritePickaxe
 scoreboard objectives remove q.netheriteScrap 
 scoreboard objectives remove q.netheriteShovel 
 scoreboard objectives remove q.netheriteSword 
+scoreboard objectives remove q.netheriteUpgradeSmithingTemplate 
 scoreboard objectives remove q.netherrack 
 scoreboard objectives remove q.noteBlock 
 scoreboard objectives remove q.oakBoat 
@@ -6618,6 +6994,7 @@ scoreboard objectives remove q.oakChestBoat
 scoreboard objectives remove q.oakDoor 
 scoreboard objectives remove q.oakFence 
 scoreboard objectives remove q.oakFenceGate 
+scoreboard objectives remove q.oakHangingSign 
 scoreboard objectives remove q.oakLeaves 
 scoreboard objectives remove q.oakLog 
 scoreboard objectives remove q.oakPlanks 
@@ -6665,6 +7042,7 @@ scoreboard objectives remove q.phantomSpawnEgg
 scoreboard objectives remove q.pigSpawnEgg 
 scoreboard objectives remove q.piglinBannerPattern 
 scoreboard objectives remove q.piglinBruteSpawnEgg 
+scoreboard objectives remove q.piglinHead 
 scoreboard objectives remove q.piglinSpawnEgg 
 scoreboard objectives remove q.pillagerSpawnEgg 
 scoreboard objectives remove q.pinkBanner 
@@ -6675,6 +7053,7 @@ scoreboard objectives remove q.pinkConcrete
 scoreboard objectives remove q.pinkConcretePowder 
 scoreboard objectives remove q.pinkDye 
 scoreboard objectives remove q.pinkGlazedTerracotta 
+scoreboard objectives remove q.pinkPetals 
 scoreboard objectives remove q.pinkShulkerBox 
 scoreboard objectives remove q.pinkStainedGlass 
 scoreboard objectives remove q.pinkStainedGlassPane 
@@ -6682,7 +7061,10 @@ scoreboard objectives remove q.pinkTerracotta
 scoreboard objectives remove q.pinkTulip 
 scoreboard objectives remove q.pinkWool 
 scoreboard objectives remove q.piston 
+scoreboard objectives remove q.pitcherPlant 
+scoreboard objectives remove q.pitcherPod 
 scoreboard objectives remove q.playerHead 
+scoreboard objectives remove q.plentyPotterySherd 
 scoreboard objectives remove q.podzol 
 scoreboard objectives remove q.pointedDripstone 
 scoreboard objectives remove q.poisonousPotato 
@@ -6727,6 +7109,7 @@ scoreboard objectives remove q.prismarineShard
 scoreboard objectives remove q.prismarineSlab 
 scoreboard objectives remove q.prismarineStairs 
 scoreboard objectives remove q.prismarineWall 
+scoreboard objectives remove q.prizePotterySherd 
 scoreboard objectives remove q.pufferfish 
 scoreboard objectives remove q.pufferfishBucket 
 scoreboard objectives remove q.pufferfishSpawnEgg 
@@ -6762,6 +7145,7 @@ scoreboard objectives remove q.rabbitHide
 scoreboard objectives remove q.rabbitSpawnEgg 
 scoreboard objectives remove q.rabbitStew 
 scoreboard objectives remove q.rail 
+scoreboard objectives remove q.raiserArmorTrimSmithingTemplate 
 scoreboard objectives remove q.ravagerSpawnEgg 
 scoreboard objectives remove q.rawCopper 
 scoreboard objectives remove q.rawCopperBlock 
@@ -6804,6 +7188,7 @@ scoreboard objectives remove q.reinforcedDeepslate
 scoreboard objectives remove q.repeater 
 scoreboard objectives remove q.repeatingCommandBlock 
 scoreboard objectives remove q.respawnAnchor 
+scoreboard objectives remove q.ribArmorTrimSmithingTemplate 
 scoreboard objectives remove q.rootedDirt 
 scoreboard objectives remove q.roseBush 
 scoreboard objectives remove q.rottenFlesh 
@@ -6825,19 +7210,25 @@ scoreboard objectives remove q.sculkVein
 scoreboard objectives remove q.seaLantern 
 scoreboard objectives remove q.seaPickle 
 scoreboard objectives remove q.seagrass 
+scoreboard objectives remove q.sentryArmorTrimSmithingTemplate 
+scoreboard objectives remove q.shaperArmorTrimSmithingTemplate 
+scoreboard objectives remove q.sheafPotterySherd 
 scoreboard objectives remove q.shears 
 scoreboard objectives remove q.sheepSpawnEgg 
+scoreboard objectives remove q.shelterPotterySherd 
 scoreboard objectives remove q.shield 
 scoreboard objectives remove q.shortGrass 
 scoreboard objectives remove q.shroomlight 
 scoreboard objectives remove q.shulkerBox 
 scoreboard objectives remove q.shulkerShell 
 scoreboard objectives remove q.shulkerSpawnEgg 
+scoreboard objectives remove q.silenceArmorTrimSmithingTemplate 
 scoreboard objectives remove q.silverfishSpawnEgg 
 scoreboard objectives remove q.skeletonHorseSpawnEgg 
 scoreboard objectives remove q.skeletonSkull 
 scoreboard objectives remove q.skeletonSpawnEgg 
 scoreboard objectives remove q.skullBannerPattern 
+scoreboard objectives remove q.skullPotterySherd 
 scoreboard objectives remove q.slimeBall 
 scoreboard objectives remove q.slimeBlock 
 scoreboard objectives remove q.slimeSpawnEgg 
@@ -6857,6 +7248,10 @@ scoreboard objectives remove q.smoothSandstoneSlab
 scoreboard objectives remove q.smoothSandstoneStairs 
 scoreboard objectives remove q.smoothStone 
 scoreboard objectives remove q.smoothStoneSlab 
+scoreboard objectives remove q.snifferEgg 
+scoreboard objectives remove q.snifferSpawnEgg 
+scoreboard objectives remove q.snortPotterySherd 
+scoreboard objectives remove q.snoutArmorTrimSmithingTemplate 
 scoreboard objectives remove q.snow 
 scoreboard objectives remove q.snowBlock 
 scoreboard objectives remove q.snowGolemSpawnEgg 
@@ -6870,6 +7265,7 @@ scoreboard objectives remove q.spawner
 scoreboard objectives remove q.spectralArrow 
 scoreboard objectives remove q.spiderEye 
 scoreboard objectives remove q.spiderSpawnEgg 
+scoreboard objectives remove q.spireArmorTrimSmithingTemplate 
 scoreboard objectives remove q.splashPotion 
 scoreboard objectives remove q.sponge 
 scoreboard objectives remove q.sporeBlossom 
@@ -6879,6 +7275,7 @@ scoreboard objectives remove q.spruceChestBoat
 scoreboard objectives remove q.spruceDoor 
 scoreboard objectives remove q.spruceFence 
 scoreboard objectives remove q.spruceFenceGate 
+scoreboard objectives remove q.spruceHangingSign 
 scoreboard objectives remove q.spruceLeaves 
 scoreboard objectives remove q.spruceLog 
 scoreboard objectives remove q.sprucePlanks 
@@ -6934,6 +7331,8 @@ scoreboard objectives remove q.structureVoid
 scoreboard objectives remove q.sugar 
 scoreboard objectives remove q.sugarCane 
 scoreboard objectives remove q.sunflower 
+scoreboard objectives remove q.suspiciousGravel 
+scoreboard objectives remove q.suspiciousSand 
 scoreboard objectives remove q.suspiciousStew 
 scoreboard objectives remove q.sweetBerries 
 scoreboard objectives remove q.tadpoleBucket 
@@ -6941,11 +7340,14 @@ scoreboard objectives remove q.tadpoleSpawnEgg
 scoreboard objectives remove q.tallGrass 
 scoreboard objectives remove q.target 
 scoreboard objectives remove q.terracotta 
+scoreboard objectives remove q.tideArmorTrimSmithingTemplate 
 scoreboard objectives remove q.tintedGlass 
 scoreboard objectives remove q.tippedArrow 
 scoreboard objectives remove q.tnt 
 scoreboard objectives remove q.tntMinecart 
 scoreboard objectives remove q.torch 
+scoreboard objectives remove q.torchflower 
+scoreboard objectives remove q.torchflowerSeeds 
 scoreboard objectives remove q.totemOfUndying 
 scoreboard objectives remove q.traderLlamaSpawnEgg 
 scoreboard objectives remove q.trappedChest 
@@ -6964,11 +7366,13 @@ scoreboard objectives remove q.turtleScute
 scoreboard objectives remove q.turtleSpawnEgg 
 scoreboard objectives remove q.twistingVines 
 scoreboard objectives remove q.verdantFroglight 
+scoreboard objectives remove q.vexArmorTrimSmithingTemplate 
 scoreboard objectives remove q.vexSpawnEgg 
 scoreboard objectives remove q.villagerSpawnEgg 
 scoreboard objectives remove q.vindicatorSpawnEgg 
 scoreboard objectives remove q.vine 
 scoreboard objectives remove q.wanderingTraderSpawnEgg 
+scoreboard objectives remove q.wardArmorTrimSmithingTemplate 
 scoreboard objectives remove q.wardenSpawnEgg 
 scoreboard objectives remove q.warpedButton 
 scoreboard objectives remove q.warpedDoor 
@@ -6976,6 +7380,7 @@ scoreboard objectives remove q.warpedFence
 scoreboard objectives remove q.warpedFenceGate 
 scoreboard objectives remove q.warpedFungus 
 scoreboard objectives remove q.warpedFungusOnAStick 
+scoreboard objectives remove q.warpedHangingSign 
 scoreboard objectives remove q.warpedHyphae 
 scoreboard objectives remove q.warpedNylium 
 scoreboard objectives remove q.warpedPlanks 
@@ -7004,6 +7409,7 @@ scoreboard objectives remove q.waxedWeatheredCopper
 scoreboard objectives remove q.waxedWeatheredCutCopper 
 scoreboard objectives remove q.waxedWeatheredCutCopperSlab 
 scoreboard objectives remove q.waxedWeatheredCutCopperStairs 
+scoreboard objectives remove q.wayfinderArmorTrimSmithingTemplate 
 scoreboard objectives remove q.weatheredCopper 
 scoreboard objectives remove q.weatheredCutCopper 
 scoreboard objectives remove q.weatheredCutCopperSlab 
@@ -7026,6 +7432,7 @@ scoreboard objectives remove q.whiteStainedGlassPane
 scoreboard objectives remove q.whiteTerracotta 
 scoreboard objectives remove q.whiteTulip 
 scoreboard objectives remove q.whiteWool 
+scoreboard objectives remove q.wildArmorTrimSmithingTemplate 
 scoreboard objectives remove q.witchSpawnEgg 
 scoreboard objectives remove q.witherRose 
 scoreboard objectives remove q.witherSkeletonSkull 
