@@ -33,6 +33,7 @@ scoreboard objectives remove b.anvil
 scoreboard objectives remove b.apple 
 scoreboard objectives remove b.archerPotterySherd 
 scoreboard objectives remove b.armadilloScute 
+scoreboard objectives remove b.armadilloSpawnEgg 
 scoreboard objectives remove b.armorStand 
 scoreboard objectives remove b.armsUpPotterySherd 
 scoreboard objectives remove b.arrow 
@@ -1204,6 +1205,7 @@ scoreboard objectives remove b.witherRose
 scoreboard objectives remove b.witherSkeletonSkull 
 scoreboard objectives remove b.witherSkeletonSpawnEgg 
 scoreboard objectives remove b.witherSpawnEgg 
+scoreboard objectives remove b.wolfArmor 
 scoreboard objectives remove b.wolfSpawnEgg 
 scoreboard objectives remove b.woodenAxe 
 scoreboard objectives remove b.woodenHoe 
@@ -1232,7 +1234,8 @@ scoreboard objectives remove b.zombieSpawnEgg
 scoreboard objectives remove b.zombieVillagerSpawnEgg 
 scoreboard objectives remove b.zombifiedPiglinSpawnEgg 
 #Crafted
-#Custom
+scoreboard objectives remove c.armadilloSpawnEgg 
+scoreboard objectives remove c.wolfArmor 
 scoreboard objectives remove c.acaciaBoat 
 scoreboard objectives remove c.acaciaButton 
 scoreboard objectives remove c.acaciaChestBoat 
@@ -2465,6 +2468,7 @@ scoreboard objectives remove c.zombieHorseSpawnEgg
 scoreboard objectives remove c.zombieSpawnEgg 
 scoreboard objectives remove c.zombieVillagerSpawnEgg 
 scoreboard objectives remove c.zombifiedPiglinSpawnEgg 
+#Custom
 scoreboard objectives remove cu.air 
 scoreboard objectives remove cu.animalsBred 
 scoreboard objectives remove cu.armor 
@@ -2569,6 +2573,7 @@ scoreboard objectives remove cu.walkUnderWaterOneCm
 #Death
 scoreboard objectives remove d.allay 
 scoreboard objectives remove d.areaEffectCloud 
+scoreboard objectives remove d.armadillo 
 scoreboard objectives remove d.armorStand 
 scoreboard objectives remove d.arrow 
 scoreboard objectives remove d.axolotl 
@@ -2688,6 +2693,7 @@ scoreboard objectives remove d.zombifiedPiglin
 #Killed
 scoreboard objectives remove k.allay 
 scoreboard objectives remove k.areaEffectCloud 
+scoreboard objectives remove k.armadillo 
 scoreboard objectives remove k.armorStand 
 scoreboard objectives remove k.arrow 
 scoreboard objectives remove k.axolotl 
@@ -2839,6 +2845,7 @@ scoreboard objectives remove u.anvil
 scoreboard objectives remove u.apple 
 scoreboard objectives remove u.archerPotterySherd 
 scoreboard objectives remove u.armadilloScute 
+scoreboard objectives remove u.armadilloSpawnEgg 
 scoreboard objectives remove u.armorStand 
 scoreboard objectives remove u.armsUpPotterySherd 
 scoreboard objectives remove u.arrow 
@@ -4010,6 +4017,7 @@ scoreboard objectives remove u.witherRose
 scoreboard objectives remove u.witherSkeletonSkull 
 scoreboard objectives remove u.witherSkeletonSpawnEgg 
 scoreboard objectives remove u.witherSpawnEgg 
+scoreboard objectives remove u.wolfArmor 
 scoreboard objectives remove u.wolfSpawnEgg 
 scoreboard objectives remove u.woodenAxe 
 scoreboard objectives remove u.woodenHoe 
@@ -5034,6 +5042,7 @@ scoreboard objectives remove p.anvil
 scoreboard objectives remove p.apple 
 scoreboard objectives remove p.archerPotterySherd 
 scoreboard objectives remove p.armadilloScute 
+scoreboard objectives remove p.armadilloSpawnEgg 
 scoreboard objectives remove p.armorStand 
 scoreboard objectives remove p.armsUpPotterySherd 
 scoreboard objectives remove p.arrow 
@@ -6205,6 +6214,7 @@ scoreboard objectives remove p.witherRose
 scoreboard objectives remove p.witherSkeletonSkull 
 scoreboard objectives remove p.witherSkeletonSpawnEgg 
 scoreboard objectives remove p.witherSpawnEgg 
+scoreboard objectives remove p.wolfArmor 
 scoreboard objectives remove p.wolfSpawnEgg 
 scoreboard objectives remove p.woodenAxe 
 scoreboard objectives remove p.woodenHoe 
@@ -6267,6 +6277,7 @@ scoreboard objectives remove q.anvil
 scoreboard objectives remove q.apple 
 scoreboard objectives remove q.archerPotterySherd 
 scoreboard objectives remove q.armadilloScute 
+scoreboard objectives remove q.armadilloSpawnEgg 
 scoreboard objectives remove q.armorStand 
 scoreboard objectives remove q.armsUpPotterySherd 
 scoreboard objectives remove q.arrow 
@@ -7438,6 +7449,7 @@ scoreboard objectives remove q.witherRose
 scoreboard objectives remove q.witherSkeletonSkull 
 scoreboard objectives remove q.witherSkeletonSpawnEgg 
 scoreboard objectives remove q.witherSpawnEgg 
+scoreboard objectives remove q.wolfArmor 
 scoreboard objectives remove q.wolfSpawnEgg 
 scoreboard objectives remove q.woodenAxe 
 scoreboard objectives remove q.woodenHoe 
@@ -7463,4 +7475,3 @@ scoreboard objectives remove q.zoglinSpawnEgg
 scoreboard objectives remove q.zombieHead 
 scoreboard objectives remove q.zombieHorseSpawnEgg 
 scoreboard objectives remove q.zombieSpawnEgg 
-scoreboard objectives remove q.zombieVillagerSpawnEgg 
