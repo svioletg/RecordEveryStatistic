@@ -23,6 +23,8 @@ line_format: dict[str, str] = {
     'uninstall': 'scoreboard objectives remove {objective} \n',
 }
 
+oxi_levels = ['exposed', 'weathered', 'oxidized', 'waxed', 'waxed_exposed', 'waxed_weathered', 'waxed_oxidized']
+
 # Store the category name based off the given comment and the prefix used in the next line's objective name
 def get_category_names() -> dict[str, dict[str, str]]:
     _category_names: dict[str, dict[str, str]] = {}
@@ -45,7 +47,6 @@ category_names = get_category_names()
 
 # Reversed, for convenience
 prefix_names: dict[str, dict[str, str]] = {info['prefix']:{'name': name, 'criteria': info['criteria']} for name, info in category_names.items()}
-
 
 # Get all lines between comments and store them into categories
 def get_category_contents() -> dict[str, dict[str, list[str]]]:
@@ -126,7 +127,7 @@ def find_objective_categories(object_name: str) -> list[str]:
     for cat in category_contents['init']:
         for line in category_contents['init'][cat]:
             if re.findall(fr"minecraft\..*:minecraft\.({object_name})\W", line): # TODO: Use regex, this can be inaccurate
-                print(f'Found in init.mcfunction under {repr(cat)}: {repr(line)}')
+                # print(f'Found in init.mcfunction under {repr(cat)}: {repr(line)}')
                 if category_names[cat]['prefix'] not in found_categories:
                     found_categories.append(category_names[cat]['prefix'])
     if not found_categories:
@@ -157,11 +158,20 @@ if __name__ == '__main__':
     if any(arg not in ['b', 'i', 'm'] for arg in object_types):
         input('Invalid object type. Valid types are "b", "i", and "m". Exiting.')
         raise SystemExit(0)
-    copycats: dict[str, str] = {'b': 'cobblestone', 'i': 'diamond', 'm': 'd.'}
+    copycats: dict[str, str] = {'b': 'cobblestone', 'i': 'diamond', 'm': 'blaze'}
     for t in object_types:
         objects = input(f'Enter the names of the "{t}"s to add, separated by spaces: ').lower().split()
         for obj in objects:
-            insert_new_objective(obj, copy_cat=copycats[t])
+            try:
+                if '[oxidizes]' in obj:
+                    obj = obj.replace('[oxidizes]', '')
+                    objs = [obj] + [f'{oxilvl}_{obj}' for oxilvl in oxi_levels]
+                    for oxiobj in objs:
+                        insert_new_objective(oxiobj, copy_cat=copycats[t])
+                else:
+                    insert_new_objective(obj, copy_cat=copycats[t])
+            except ValueError as e:
+                print(f'Error: {e}')
     for func in mcfuncs:
         reconstruct(func)
     if input('Commit these changes? (y/n) ').lower() != 'y':
